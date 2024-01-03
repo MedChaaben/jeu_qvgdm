@@ -1,0 +1,109 @@
+<quiz name="quiz">
+  <questions>
+    <question rank="1">
+      <name>Quelle est la capitale de la France ?</name>
+      <answerWrong>Londres</answerWrong>
+      <answerWrong>Berlin</answerWrong>
+      <answerWrong>Madrid</answerWrong>
+      <answerRight>Paris</answerRight>
+    </question>
+    <question rank="2">
+      <name>Quel fruit est connu pour sa teneur en potassium ?</name>
+      <answerWrong>Pomme</answerWrong>
+      <answerWrong>Orange</answerWrong>
+      <answerWrong>Raisin</answerWrong>
+      <answerRight>Banane</answerRight>
+    </question>
+    <question rank="3">
+      <name>De quel élément chimique le symbole 'O' est-il l'abréviation ?</name>
+      <answerWrong>Or</answerWrong>
+      <answerWrong>Osmium</answerWrong>
+      <answerWrong>Olivine</answerWrong>
+      <answerRight>Oxygène</answerRight>
+    </question>
+    <question rank="4">
+      <name>Qui a écrit 'Les Misérables' ?</name>
+      <answerWrong>Albert Camus</answerWrong>
+      <answerWrong>Gustave Flaubert</answerWrong>
+      <answerWrong>Émile Zola</answerWrong>
+      <answerRight>Victor Hugo</answerRight>
+    </question>
+    <question rank="5">
+      <name>Quel est le plus grand océan du monde ?</name>
+      <answerWrong>Atlantique</answerWrong>
+      <answerWrong>Indien</answerWrong>
+      <answerWrong>Arctique</answerWrong>
+      <answerRight>Pacifique</answerRight>
+    </question>
+    <question rank="6">
+      <name>Comment appelle-t-on un triangle avec trois côtés de longueur différente ?</name>
+      <answerWrong>Équilatéral</answerWrong>
+      <answerWrong>Isocèle</answerWrong>
+      <answerWrong>Rectangle</answerWrong>
+      <answerRight>Scalène</answerRight>
+    </question>
+    <question rank="7">
+      <name>Quelle planète est connue comme la 'Planète Rouge' ?</name>
+      <answerWrong>Vénus</answerWrong>
+      <answerWrong>Jupiter</answerWrong>
+      <answerWrong>Uranus</answerWrong>
+      <answerRight>Mars</answerRight>
+    </question>
+    <question rank="8">
+      <name>Dans quel pays se trouve la ville de Tokyo ?</name>
+      <answerWrong>Chine</answerWrong>
+      <answerWrong>Corée du Sud</answerWrong>
+      <answerWrong>Thaïlande</answerWrong>
+      <answerRight>Japon</answerRight>
+    </question>
+    <question rank="9">
+      <name>Quel est le plus grand désert du monde ?</name>
+      <answerWrong>Sahara</answerWrong>
+      <answerWrong>Kalahari</answerWrong>
+      <answerWrong>Gobi</answerWrong>
+      <answerRight>Antarctique</answerRight>
+    </question>
+    <question rank="10">
+      <name>Qui est l'auteur de la théorie de la relativité ?</name>
+      <answerWrong>Isaac Newton</answerWrong>
+      <answerWrong>Nikola Tesla</answerWrong>
+      <answerWrong>Marie Curie</answerWrong>
+      <answerRight>Albert Einstein</answerRight>
+    </question>
+    <question rank="11">
+      <name>Quel est le gaz majoritaire dans l'atmosphère terrestre ?</name>
+      <answerWrong>Oxygène</answerWrong>
+      <answerWrong>Dioxyde de carbone</answerWrong>
+      <answerWrong>Argon</answerWrong>
+      <answerRight>Azote</answerRight>
+    </question>
+    <question rank="12">
+      <name>Quel organe est affecté par une hépatite ?</name>
+      <answerWrong>Cœur</answerWrong>
+      <answerWrong>Poumons</answerWrong>
+      <answerWrong>Estomac</answerWrong>
+      <answerRight>Foie</answerRight>
+    </question>
+    <question rank="13">
+      <name>Quelle est la plus petite planète du système solaire ?</name>
+      <answerWrong>Vénus</answerWrong>
+      <answerWrong>Terre</answerWrong>
+      <answerWrong>Neptune</answerWrong>
+      <answerRight>Mercure</answerRight>
+    </question>
+    <question rank="14">
+      <name>Qui a peint 'La Nuit étoilée' ?</name>
+      <answerWrong>Pablo Picasso</answerWrong>
+      <answerWrong>Leonardo da Vinci</answerWrong>
+      <answerWrong>Rembrandt</answerWrong>
+      <answerRight>Vincent van Gogh</answerRight>
+    </question>
+    <question rank="15">
+      <name>Quel est le livre le plus vendu dans le monde après la Bible ?</name>
+      <answerWrong>Le Petit Prince</answerWrong>
+      <answerWrong>Harry Potter et la Pierre Philosophale</answerWrong>
+      <answerWrong>Le Seigneur des Anneaux</answerWrong>
+      <answerRight>Le Livre Rouge de Mao Zedong</answerRight>
+    </question>
+  </questions>
+</quiz>
