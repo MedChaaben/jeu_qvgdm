@@ -202,6 +202,9 @@ class Game {
     );
     this.nextQuestionButton.style.display = 'none'; // Cacher le bouton au début
 
+    // event clavier
+    document.addEventListener('keydown', (event) => this.handlerKeybord(event));
+
     this.parseXML();
   }
 
@@ -332,6 +335,38 @@ class Game {
       return true;
     }
     return false;
+  }
+
+  handlerKeybord(event) {
+    let key = event.code;
+    if (key.includes('Digit')) {
+      key = key.slice(-1);
+    }
+
+    console.log(key, event);
+
+    // Gérer la progression vers la question suivante
+    if (
+      (key === 'Space' || key === 'ArrowRight' || key === 'Enter') &&
+      this.nextQuestionButton.style.display !== 'none'
+    ) {
+      this.handleNextQuestionClick();
+      return;
+    }
+
+    // Gérer la sélection et la validation des réponses
+    if (this.clickable) {
+      // Si une réponse est déjà sélectionnée et que l'utilisateur appuie sur 'Enter', validez cette réponse
+      if (key === 'Enter' && this.selectedAnswer != null) {
+        this.answerClick(this.selectedAnswer);
+      } else if (key >= '1' && key <= '4') {
+        // Sinon, sélectionnez la réponse correspondant à la touche pressée
+        const answerIndex = parseInt(key, 10) - 1;
+        this.answerClick(answerIndex);
+      }
+    } else {
+      if (key === 'Enter') document.location.reload();
+    }
   }
 }
 
