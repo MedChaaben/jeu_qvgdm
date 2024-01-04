@@ -145,8 +145,8 @@ class LeaderBoard {
     this.usedPub = false;
     this.jokers = {
       5050: document.getElementById('joker_5050'),
-      tel: document.getElementById('joker_tel'),
-      pub: document.getElementById('joker_pub'),
+      Tel: document.getElementById('joker_tel'),
+      Pub: document.getElementById('joker_pub'),
     };
 
     Object.entries(this.jokers).forEach(([key, joker]) => {
@@ -178,7 +178,7 @@ class LeaderBoard {
     this.usedPub = true;
   }
 
-  usePub() {
+  useTel() {
     this.usedTel = true;
   }
 }
