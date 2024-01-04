@@ -130,6 +130,12 @@ class QuestionBoard {
       div.classList.remove('right', 'wrong');
     });
   }
+
+  markSelected(i) {
+    this.ansDiv.forEach((div, pos) => {
+      div.classList[pos !== i ? 'remove' : 'add']('selected');
+    });
+  }
 }
 
 class LeaderBoard {
@@ -183,6 +189,7 @@ class Game {
     this.rank = 1;
     this.maxrank = 0;
     this.clickable = true;
+    this.selectedAnswer = null;
 
     this.medallion = new Medallion();
     this.questionBoard = new QuestionBoard(this.answerClick.bind(this));
@@ -199,14 +206,6 @@ class Game {
   }
 
   handleNextQuestionClick() {
-    let questionSound = document.getElementById('questionSound');
-    let answerSound = document.getElementById('answerSound');
-
-    questionSound.play();
-    questionSound.onended = function () {
-      answerSound.play();
-    };
-
     this.nextQuestionButton.style.display = 'none'; // Cacher le bouton
     this.newQuestion();
     this.questionBoard.clear();
@@ -268,7 +267,21 @@ class Game {
 
   answerClick(i) {
     if (this.clickable) {
-      this.check(i);
+      const answerSound = document.getElementById('answerSound');
+      if (this.selectedAnswer === i) {
+        // Si la réponse sélectionnée est cliquée à nouveau, validez-la
+        answerSound.pause();
+        answerSound.currentTime = 0;
+        document.getElementById('questionSound').play();
+        this.selectedAnswer = null;
+        this.questionBoard.markSelected(null);
+        this.check(i);
+      } else {
+        // Sinon, marquez simplement la réponse comme sélectionnée
+        answerSound.play();
+        this.selectedAnswer = i;
+        this.questionBoard.markSelected(i);
+      }
     }
   }
 
@@ -285,7 +298,8 @@ class Game {
         this.nextQuestionButton.style.display = 'block';
       } else {
         this.medallion.win(() => {
-          console.log('OK');
+          console.log('You win');
+          document.getElementById('generiqueSound').play();
         });
       }
     } else {
@@ -295,7 +309,8 @@ class Game {
       );
       this.questionBoard.updateAnswerStatus(i, 'wrong');
       this.medallion.lose(() => {
-        location.reload();
+        console.log('you lose');
+        // location.reload();
       });
     }
   }

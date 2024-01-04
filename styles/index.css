@@ -70,6 +70,10 @@ body {
   background: radial-gradient(purple, black);
 }
 
+.selected {
+  background: radial-gradient(white, #0b1441);
+}
+
 #question {
   width: 100%;
   background: radial-gradient(#443797, #2b1441);
