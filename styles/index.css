@@ -23,8 +23,7 @@ body {
 
 #logo {
   width: 300px;
-  margin-left: calc(50% - 150px);
-  margin-bottom: 30px;
+  margin: 30px auto;
 }
 
 div#joker {
