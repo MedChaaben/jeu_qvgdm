@@ -199,6 +199,14 @@ class Game {
   }
 
   handleNextQuestionClick() {
+    let questionSound = document.getElementById('questionSound');
+    let answerSound = document.getElementById('answerSound');
+
+    questionSound.play();
+    questionSound.onended = function () {
+      answerSound.play();
+    };
+
     this.nextQuestionButton.style.display = 'none'; // Cacher le bouton
     this.newQuestion();
     this.questionBoard.clear();

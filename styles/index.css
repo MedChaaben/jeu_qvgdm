@@ -16,6 +16,7 @@ body {
   background: linear-gradient(to right, #243797, #152261);
   padding: 20px;
   font-weight: bold;
+  float: right;
 }
 
 #logo {
@@ -31,7 +32,7 @@ body {
 
 #main {
   display: inline-block;
-  width: 75%;
+  width: calc(100% - 320px);
 }
 
 #qanda {
@@ -43,16 +44,14 @@ body {
   color: white;
   background: radial-gradient(#243797, #0b1441);
   border-radius: 10px;
-  padding: 1px;
-  min-height: 90px;
-  line-height: 90px;
-  font-size: 40px;
+  padding: 1rem;
+  min-height: 120px;
+  line-height: 120px;
   font-size: 3vw;
-  text-align: center;
   border-color: white;
   border-style: solid;
   border-width: 2px;
-  white-space: pre-line;
+  text-align: left;
 }
 
 .pointer {
@@ -79,6 +78,7 @@ body {
 
 #table {
   width: 100%;
+  border-spacing: 10px;
 }
 
 #table .element {
