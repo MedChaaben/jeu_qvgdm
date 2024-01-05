@@ -103,13 +103,25 @@ div#joker {
   color: white;
 }
 
-#nextQuestionButton {
+.actionsButtons {
   position: absolute;
   right: 40px;
   bottom: 10px;
   font-size: 1vw;
+  display: flex;
+}
+
+#nextQuestionButton {
   color: white;
-  background: radial-gradient(green, black);
+  background: linear-gradient(45deg, green, black);
+  padding: 10px 1em;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+#reset {
+  color: white;
+  background: linear-gradient(45deg, black, transparent);
   padding: 10px 1em;
   cursor: pointer;
 }

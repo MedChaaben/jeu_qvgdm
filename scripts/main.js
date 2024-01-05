@@ -368,6 +368,16 @@ class Game {
       if (key === 'Enter') document.location.reload();
     }
   }
+
+  confirmReload() {
+    if (
+      confirm(
+        'Êtes-vous sûr de vouloir recommencer ?\nCette action effacera votre progression et démarera une nouvelle partie'
+      )
+    ) {
+      window.location.reload();
+    }
+  }
 }
 
 const game = new Game();

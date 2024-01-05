@@ -118,7 +118,10 @@
       </div>
     </div>
 
-    <button id="nextQuestionButton">Suivant</button>
+    <div class="actionsButtons">
+      <button id="nextQuestionButton">Suivant</button>
+      <button id="reset" onclick="game.confirmReload()">Recommencer</button>
+    </div>
 
     <audio id="generiqueSound" loop>
       <source src="./sounds/media1.mp3" type="audio/mpeg" />
