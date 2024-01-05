@@ -1,3 +1,7 @@
+// name of xml file 'quiz.xml' or the api returning the xml file 'http://localhost:3000/fetch-questions'
+const useThisfile =
+  'http://localhost:3000/fetch-questions-i18n' + window.location.search;
+
 class Medallion {
   constructor() {
     this.logo = document.getElementById('logo');
@@ -248,8 +252,7 @@ class Game {
       this.startGame();
     };
 
-    xmlhttp.open('GET', 'http://localhost:3000/fetch-questions', true);
-    // xmlhttp.open('GET', 'quiz.xml', false); // uncomment this line to use the xml file
+    xmlhttp.open('GET', useThisfile, false);
     xmlhttp.send();
   }
 
@@ -313,7 +316,6 @@ class Game {
       this.questionBoard.updateAnswerStatus(i, 'wrong');
       this.medallion.lose(() => {
         console.log('you lose');
-        // location.reload();
       });
     }
   }
