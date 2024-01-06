@@ -380,7 +380,12 @@ class Game {
       window.location.reload();
     }
   }
+
+  translateTo(lang) {
+    window.location.href = `?lang=${lang}`;
+  }
 }
 
+// set value of select language
+document.getElementById('lang').value = window.location.search.slice(6);
 const game = new Game();
-game.startGame();

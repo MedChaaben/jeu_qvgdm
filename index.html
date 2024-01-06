@@ -10,10 +10,35 @@
     <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" />
     <link href="//fonts.googleapis.com/css?family=Aldrich" rel="stylesheet" />
     <link rel="stylesheet" href="styles/index.css" />
-
-    <!--<link rel="icon" type="image/png" href="images/favicon.png">-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/flag-icon-css@4.1.7/css/flag-icons.min.css"
+      rel="stylesheet"
+    />
   </head>
   <body>
+    <div id="languages">
+      <select
+        name="languages"
+        id="lang"
+        onchange="game.translateTo(this.value)"
+      >
+        <option value="fr">
+          <span class="flag-icon flag-icon-fr"></span> Français
+        </option>
+        <option value="en">
+          <span class="flag-icon flag-icon-en"></span> English
+        </option>
+        <option value="de">
+          <span class="flag-icon flag-icon-de"></span> Deutsh
+        </option>
+        <option value="es">
+          <span class="flag-icon flag-icon-es"></span> Español
+        </option>
+        <option value="it">
+          <span class="flag-icon flag-icon-it"></span> Italiano
+        </option>
+      </select>
+    </div>
     <div id="main">
       <div id="logo">
         <img id="logoimg" width="300px" src="images/logo.png" />

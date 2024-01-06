@@ -7,6 +7,21 @@ body {
   background: radial-gradient(#243797, #0b1441);
 }
 
+#languages {
+  position: absolute;
+}
+
+#languages .flag-icon {
+  cursor: pointer;
+  margin-right: 0.5rem;
+  border: solid 1px transparent;
+}
+
+#languages .flag-icon:hover {
+  border-color: white;
+  scale: 1.5;
+}
+
 #ranking {
   display: inline-block;
   color: #e8ba25;

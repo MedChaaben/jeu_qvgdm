@@ -47,7 +47,7 @@ app.get('/fetch-questions-i18n', async (req, res) => {
     const translator = new deepl.Translator(process.env.AUTH_KEY_DEEPL);
     const { lang } = req.query;
     const { data } = await axios.get(
-      'https://opentdb.com/api.php?amount=15&type=multiple'
+      'https://opentdb.com/api.php?amount=1&type=multiple'
     );
 
     const questions = [];
@@ -57,11 +57,11 @@ app.get('/fetch-questions-i18n', async (req, res) => {
         question_translated,
         incorrect_answers_translated,
         correct_answer_translated,
-      ] = await Promise.all([
-        translator.translateText(item.question, null, lang),
-        translator.translateText(item.incorrect_answers.join('**'), null, lang),
-        translator.translateText(item.correct_answer, null, lang),
-      ]);
+      ] = await translator.translateText(
+        [item.question, item.incorrect_answers.join('**'), item.correct_answer],
+        null,
+        lang
+      );
 
       questions.push({
         $: { rank: questions.length + 1 },
