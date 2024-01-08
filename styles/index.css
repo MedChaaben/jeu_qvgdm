@@ -32,7 +32,8 @@ body {
   padding: 20px;
   font-weight: bold;
   position: fixed;
-  top: 00;
+  top: 0;
+  right: 0;
   height: 100vh;
 }
 
@@ -120,7 +121,7 @@ div#joker {
 
 .actionsButtons {
   position: absolute;
-  right: 40px;
+  right: 20px;
   bottom: 10px;
   font-size: 1vw;
   display: flex;

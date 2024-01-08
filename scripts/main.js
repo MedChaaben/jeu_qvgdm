@@ -1,7 +1,12 @@
 // name of xml file 'quiz.xml' or the api returning the xml file 'http://localhost:3000/fetch-questions-i18n'
-console.log('window.location.search', window.location.search);
-const useThisfile = `http://localhost:3000/fetch-questions-i18n${window.location.search}`;
-// const useThisfile = 'quiz.xml';
+const useThisfile =
+  window.location.search === '?lang=file'
+    ? 'quiz.xml'
+    : `http://localhost:3000/fetch-questions-i18n${window.location.search}`;
+
+const generiqueSound = document.getElementById('generiqueSound');
+const answerSound = document.getElementById('answerSound');
+const questionSound = document.getElementById('questionSound');
 
 class Medallion {
   constructor() {
@@ -19,25 +24,21 @@ class Medallion {
     this.rotations = 0;
     this.maxrotations = maxrotations;
     this.timeout = timeout;
-
-    if (typeof nextListener !== 'function') {
-      throw new Error('nextListener must be a function');
-    }
     this.listener = nextListener;
     this.rot();
   }
 
-  lose(listener) {
-    this.rotate(90, 10, () => {
+  lose() {
+    this.rotate(90, 360, 5, () => {
       this.logoimg.src = 'images/logo_lost.png';
-      this.rotate(270, 10, listener);
+      generiqueSound.play();
     });
   }
 
-  win(listener) {
-    this.rotate(90, 10, () => {
+  win() {
+    this.rotate(90, 360, 5, () => {
       this.logoimg.src = 'images/logo_won.png';
-      this.rotate(270, 10, listener);
+      generiqueSound.play();
     });
   }
 
@@ -170,6 +171,7 @@ class LeaderBoard {
 
   useJoker(type) {
     if (!this['used' + type]) {
+      answerSound.play();
       this['use' + type]();
       this.jokers[type].src = `images/joker_${type}_x.svg`;
     }
@@ -278,12 +280,11 @@ class Game {
 
   answerClick(i) {
     if (this.clickable) {
-      const answerSound = document.getElementById('answerSound');
       if (this.selectedAnswer === i) {
         // Si la réponse sélectionnée est cliquée à nouveau, validez-la
         answerSound.pause();
         answerSound.currentTime = 0;
-        document.getElementById('questionSound').play();
+        questionSound.play();
         this.selectedAnswer = null;
         this.questionBoard.markSelected(null);
         this.check(i);
@@ -304,14 +305,10 @@ class Game {
       this.rank++;
       if (this.rank <= this.maxrank) {
         this.medallion.rotate(90, 360, 5, () => {
-          console.log('OK');
+          this.nextQuestionButton.style.display = 'block';
         });
-        this.nextQuestionButton.style.display = 'block';
       } else {
-        this.medallion.win(() => {
-          console.log('You win');
-          document.getElementById('generiqueSound').play();
-        });
+        this.medallion.win();
       }
     } else {
       this.questionBoard.updateAnswerStatus(
@@ -319,9 +316,7 @@ class Game {
         'right'
       );
       this.questionBoard.updateAnswerStatus(i, 'wrong');
-      this.medallion.lose(() => {
-        console.log('you lose');
-      });
+      this.medallion.lose();
     }
   }
 
@@ -392,5 +387,5 @@ class Game {
 }
 
 // set value of select language
-document.getElementById('lang').value = window.location.search.slice(6);
+document.getElementById('lang').value = window.location.search.slice(6) || 'en';
 const game = new Game();
