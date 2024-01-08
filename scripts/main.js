@@ -1,6 +1,7 @@
-// name of xml file 'quiz.xml' or the api returning the xml file 'http://localhost:3000/fetch-questions'
-const useThisfile =
-  'http://localhost:3000/fetch-questions-i18n' + window.location.search;
+// name of xml file 'quiz.xml' or the api returning the xml file 'http://localhost:3000/fetch-questions-i18n'
+console.log('window.location.search', window.location.search);
+const useThisfile = `http://localhost:3000/fetch-questions-i18n${window.location.search}`;
+// const useThisfile = 'quiz.xml';
 
 class Medallion {
   constructor() {
@@ -252,8 +253,12 @@ class Game {
       this.startGame();
     };
 
-    xmlhttp.open('GET', useThisfile, false);
-    xmlhttp.send();
+    try {
+      xmlhttp.open('GET', useThisfile, false);
+      xmlhttp.send();
+    } catch (error) {
+      alert(error);
+    }
   }
 
   startGame() {
