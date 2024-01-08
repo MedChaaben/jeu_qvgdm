@@ -32,6 +32,7 @@ class Medallion {
     this.rotate(90, 360, 5, () => {
       this.logoimg.src = 'images/logo_lost.png';
       generiqueSound.play();
+      document.getElementById('main').style.opacity = 0.5;
     });
   }
 
@@ -39,6 +40,7 @@ class Medallion {
     this.rotate(90, 360, 5, () => {
       this.logoimg.src = 'images/logo_won.png';
       generiqueSound.play();
+      document.getElementById('main').style.opacity = 0.5;
     });
   }
 

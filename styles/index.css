@@ -1,6 +1,10 @@
 * {
   font-family: arial;
   box-sizing: border-box;
+  -webkit-user-select: none; /* Chrome, Safari, Opera */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Standard syntax */
 }
 
 body {
@@ -9,17 +13,16 @@ body {
 
 #languages {
   position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 2;
 }
 
-#languages .flag-icon {
-  cursor: pointer;
-  margin-right: 0.5rem;
-  border: solid 1px transparent;
-}
-
-#languages .flag-icon:hover {
-  border-color: white;
-  scale: 1.5;
+#languages select {
+  font-size: 18px;
+  padding: 8px;
+  background: linear-gradient(to right, #243797, #152261);
+  color: white;
 }
 
 #ranking {
