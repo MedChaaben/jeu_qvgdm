@@ -144,3 +144,7 @@ div#joker {
   padding: 10px 1em;
   cursor: pointer;
 }
+
+div.rank {
+  padding: 0 8px;
+}
