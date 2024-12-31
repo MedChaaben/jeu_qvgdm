@@ -19,10 +19,17 @@ body {
 }
 
 #languages select {
+  cursor: pointer;
   font-size: 18px;
   padding: 8px;
   background: linear-gradient(to right, #243797, #152261);
   color: white;
+  opacity: 0.1;
+  transition: opacity 1s ease;
+}
+
+#languages select:hover {
+  opacity: 1;
 }
 
 #ranking {
@@ -124,25 +131,40 @@ div#joker {
 
 .actionsButtons {
   position: absolute;
-  right: 20px;
-  bottom: 20px;
+  right: 10px;
+  bottom: 10px;
   font-size: 1vw;
   display: flex;
+  gap: 10px;
+}
+
+.actionsButtons button {
+  color: white;
+  padding: 10px 1em;
+  cursor: pointer;
+  transition: opacity 1s ease;
+  opacity: 0.1;
+}
+
+.actionsButtons button:hover {
+  opacity: 1;
 }
 
 #nextQuestionButton {
-  color: white;
   background: linear-gradient(45deg, green, black);
-  padding: 10px 1em;
-  cursor: pointer;
-  margin-right: 10px;
+  opacity: 1;
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  zoom: 1.5;
+}
+
+#forceNextButton {
+  background: linear-gradient(45deg, red, black);
 }
 
 #reset {
-  color: white;
   background: linear-gradient(45deg, black, transparent);
-  padding: 10px 1em;
-  cursor: pointer;
 }
 
 div.rank {

@@ -22,7 +22,14 @@
         id="lang"
         onchange="game.translateTo(this.value)"
       >
-        <option value="file">Utiliser fichier "quizz.xml"</option>
+      <!-- files -->
+        <option value="quiz1.xml">Quiz 1</option>
+        <option value="quiz2.xml">Quiz 2</option>
+        <option value="quiz3.xml">Quiz 3</option>
+        <option value="quiz4.xml">Quiz 4</option>
+        <option value="quiz5.xml">Quiz 5</option>
+        <option value="quiz6.xml">Quiz 6</option>
+        <!-- language from api -->
         <option value="fr">
           <span class="flag-icon flag-icon-fr"></span> Français
         </option>
@@ -145,8 +152,9 @@
     </div>
 
     <div class="actionsButtons">
-      <button id="nextQuestionButton">Suivant</button>
+      <button id="forceNextButton">Continuer</button>
       <button id="reset" onclick="game.confirmReload()">Recommencer</button>
+      <button id="nextQuestionButton">Suivant</button>
     </div>
 
     <audio id="generiqueSound" loop>

@@ -1,249 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quiz name="quiz">
+<quiz name="quiz 3">
 	<questions>
 		<question rank="1">
-      <name>ما هو أول مسجد بُني في الإسلام؟</name>
-      <answerWrong>المسجد الحرام</answerWrong>
-      <answerWrong>المسجد النبوي</answerWrong>
-      <answerWrong>المسجد الأقصى</answerWrong>
-      <answerRight>مسجد قباء</answerRight>
-    </question>
-		<question rank="2">
 			<name>
-				Quel pays est le plus grand du monde par sa superficie ?
+				ما هو الاسم الذي أطلقه القرآن الكريم على مريم عليها السلام في سورة آل عمران؟
 			</name>
 			<answerWrong>
-				Chine
+				الصديقة
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				الطاهرة
 			</answerWrong>
 			<answerWrong>
-				Canada
+				الزاهدة
 			</answerWrong>
 			<answerRight>
-				Russie
+				المصطفاة
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Dans quelle ville se trouve la basilique de la Sagrada Familia ?
+			</name>
+			<answerWrong>
+				Madrid
+			</answerWrong>
+			<answerWrong>
+				Séville
+			</answerWrong>
+			<answerWrong>
+				Valence
+			</answerWrong>
+			<answerRight>
+				Barcelone
 			</answerRight>
 		</question>
 		<question rank="3">
 			<name>
-				Qui était le premier président des États-Unis ?
+				من هو أول نبي أمره الله بالصيام؟
 			</name>
 			<answerWrong>
-				Abraham Lincoln
+				نوح عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Thomas Jefferson
+				إبراهيم عليه السلام
 			</answerWrong>
 			<answerWrong>
-				John Adams
+				موسى عليه السلام
 			</answerWrong>
 			<answerRight>
-				George Washington
+				آدم عليه السلام
 			</answerRight>
 		</question>
 		<question rank="4">
 			<name>
-				En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?
+				Quelle est la plus grande île du monde ?
 			</name>
 			<answerWrong>
-				1965
+				L'Indonésie
 			</answerWrong>
 			<answerWrong>
-				1972
+				Madagascar
 			</answerWrong>
 			<answerWrong>
-				1980
+				Bornéo
 			</answerWrong>
 			<answerRight>
-				1969
+				Groenland
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				En quelle année a commencé la Seconde Guerre mondiale ?
+				Quel est le plus grand pays d'Amérique du Sud ?
 			</name>
 			<answerWrong>
-				1914
+				Argentine
 			</answerWrong>
 			<answerWrong>
-				1945
+				Chili
 			</answerWrong>
 			<answerWrong>
-				1950
+				Colombie
 			</answerWrong>
 			<answerRight>
-				1939
+				Brésil
 			</answerRight>
 		</question>
 		<question rank="6">
 			<name>
-				Quel événement a marqué la fin de la Seconde Guerre mondiale en Europe ?
+				Quel pays a pour capitale Addis-Abeba ?
 			</name>
 			<answerWrong>
-				Le débarquement de Normandie
+				Le Kenya
 			</answerWrong>
 			<answerWrong>
-				La bataille de Stalingrad
+				La Tanzanie
 			</answerWrong>
 			<answerWrong>
-				L'attaque de Pearl Harbor
+				L’Ouganda
 			</answerWrong>
 			<answerRight>
-				La capitulation de l'Allemagne
+				L'Éthiopie
 			</answerRight>
 		</question>
 		<question rank="7">
 			<name>
-				Quelle est la langue la plus parlée dans le monde ?
+				كم عدد أشهر الحرم؟
 			</name>
 			<answerWrong>
-				L’anglais
+				ثلاثة
 			</answerWrong>
 			<answerWrong>
-				L’espagnol
+				خمسة
 			</answerWrong>
 			<answerWrong>
-				L’hindi
+				ستة
 			</answerWrong>
 			<answerRight>
-				Le mandarin
+				أربعة
 			</answerRight>
 		</question>
 		<question rank="8">
 			<name>
-				Combien de continents y a-t-il sur Terre ?
+				Quel est le nom complet de l'écrivain connu sous le pseudonyme de Voltaire ?
 			</name>
 			<answerWrong>
-				5
+				Jean-Jacques Rousseau
 			</answerWrong>
 			<answerWrong>
-				6
+				François Rabelais
 			</answerWrong>
 			<answerWrong>
-				8
+				Charles Baudelaire
 			</answerWrong>
 			<answerRight>
-				7
+				François-Marie Arouet
 			</answerRight>
 		</question>
 		<question rank="9">
 			<name>
-				Quel est le plus grand reptile du monde ?
+				ما هي السورة التي ذكر فيها اسم مسجد ضرار؟
 			</name>
 			<answerWrong>
-				Le python réticulé
+				سورة التوبة
 			</answerWrong>
 			<answerWrong>
-				Le varan de Komodo
+				سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				La tortue luth
+				سورة الإسراء
 			</answerWrong>
 			<answerRight>
-				Le crocodile marin
+				سورة التوبة
 			</answerRight>
 		</question>
 		<question rank="10">
 			<name>
-				Quel pays a été dirigé par Winston Churchill pendant la Seconde Guerre mondiale ?
+				Dans quel pays se trouve la vallée des rois, célèbre pour ses tombeaux ?
 			</name>
 			<answerWrong>
-				France
+				La Grèce
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				Le Mexique
 			</answerWrong>
 			<answerWrong>
-				Allemagne
+				La Jordanie
 			</answerWrong>
 			<answerRight>
-				Royaume-Uni
+				L'Égypte
 			</answerRight>
 		</question>
 		<question rank="11">
 			<name>
-				Qui a formulé la théorie de la relativité ?
+				من هو النبي الذي أطلق عليه اسم كليم الله؟
 			</name>
 			<answerWrong>
-				Isaac Newton
+				إبراهيم عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Nikola Tesla
+				عيسى عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Galileo Galilei
+				محمد صلى الله عليه وسلم
 			</answerWrong>
 			<answerRight>
-				Albert Einstein
+				موسى عليه السلام
 			</answerRight>
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la composition de l'air que nous respirons ?
+				Quel est le plus haut sommet du continent africain ?
 			</name>
 			<answerWrong>
-				50% d'azote, 30% d'oxygène
+				Le Mont Kenya
 			</answerWrong>
 			<answerWrong>
-				21% d'azote, 78% d'oxygène
+				Le Rwenzori
 			</answerWrong>
 			<answerWrong>
-				100% d'oxygène
+				Le Drakensberg
 			</answerWrong>
 			<answerRight>
-				78% d'azote, 21% d'oxygène
+				Le Kilimandjaro
 			</answerRight>
 		</question>
 		<question rank="13">
 			<name>
-				Quel est l’organe responsable de la production des globules rouges ?
+				ما هو الدعاء الذي أوصى به النبي عند زيارة القبور؟
 			</name>
 			<answerWrong>
-				Le foie
+				اللهم ارحمهم
 			</answerWrong>
 			<answerWrong>
-				Les reins
+				السلام عليكم دار قوم مؤمنين
 			</answerWrong>
 			<answerWrong>
-				Le cœur
+				رب اغفر لي ولهم
 			</answerWrong>
 			<answerRight>
-				La moelle osseuse
+				السلام عليكم دار قوم مؤمنين، وإنا إن شاء الله بكم لاحقون
 			</answerRight>
 		</question>
 		<question rank="14">
 			<name>
-				Quel est le nom du créateur de Facebook ?
+				Quel fleuve traverse Paris ?
 			</name>
 			<answerWrong>
-				Bill Gates
+				La Loire
 			</answerWrong>
 			<answerWrong>
-				Steve Jobs
+				La Garonne
 			</answerWrong>
 			<answerWrong>
-				Elon Musk
+				Le Rhin
 			</answerWrong>
 			<answerRight>
-				Mark Zuckerberg
+				La Seine
 			</answerRight>
 		</question>
 		<question rank="15">
 			<name>
-				Combien d'os composent le squelette humain à l'âge adulte ?
+				كم مرة وردت كلمة الجنة في القرآن الكريم؟
 			</name>
 			<answerWrong>
-				212
+				60 مرة
 			</answerWrong>
 			<answerWrong>
-				220
+				90 مرة
 			</answerWrong>
 			<answerWrong>
-				200
+				110 مرات
 			</answerWrong>
 			<answerRight>
-				206
+				147 مرة
 			</answerRight>
 		</question>
 	</questions>

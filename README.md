@@ -4,15 +4,16 @@
 
 This Quiz App is a dynamic web application using Node.js, Express.js, and additional technologies for fetching and displaying quiz questions.
 
-## Installation
-
-1. **Clone the repository**: `git clone [repository-url]`
-2. **Install dependencies**: Run `npm install` to install required modules.
-
 ## Usage
 
-- **Starting the server**: Execute `node server.js` to start the server on port 3000.
-- **Accessing the Quiz**: Open `index.html` in a web browser to interact with the quiz.
+**Clone the repository**: `git clone [repository-url]`
+
+**You can skip steps 1 and 2 if you prefer to run the application without the backend API and directly use the quiz from XML stored files.**
+
+1. **Install dependencies**: Run `npm install` on backend folder to install required modules.
+2. **Starting the server**: Execute `node server.js` from the backend folder to start the server on port 3000.
+3. **Starting the live server**: Execute `npx live-server` from the root folder containing `index.html`.
+
 
 ## Features
 

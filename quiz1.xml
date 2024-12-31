@@ -1,203 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quiz name="quiz">
+<quiz name="quiz 2">
 	<questions>
 		<question rank="1">
-      <name>ما هو أول مسجد بُني في الإسلام؟</name>
-      <answerWrong>المسجد الحرام</answerWrong>
-      <answerWrong>المسجد النبوي</answerWrong>
-      <answerWrong>المسجد الأقصى</answerWrong>
-      <answerRight>مسجد قباء</answerRight>
-    </question>
-		<question rank="2">
 			<name>
-				Quel pays est le plus grand du monde par sa superficie ?
+				ما هي الآية التي تعتبر أطول آية في القرآن الكريم؟
 			</name>
 			<answerWrong>
-				Chine
+				آية الكرسي (255) في سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				آية المباهلة (61) في سورة آل عمران
 			</answerWrong>
 			<answerWrong>
-				Canada
+				آية المواريث (11) في سورة النساء
 			</answerWrong>
 			<answerRight>
-				Russie
+				آية الدين (282) في سورة البقرة
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Quelle est la seule mer qui n’a pas de côtes ?
+			</name>
+			<answerWrong>
+				La mer Baltique
+			</answerWrong>
+			<answerWrong>
+				La mer Noire
+			</answerWrong>
+			<answerWrong>
+				La mer Rouge
+			</answerWrong>
+			<answerRight>
+				La mer des Sargasses
 			</answerRight>
 		</question>
 		<question rank="3">
 			<name>
-				Qui était le premier président des États-Unis ?
+				Combien de lettres composent la langue arabe ?
 			</name>
 			<answerWrong>
-				Abraham Lincoln
+				26
 			</answerWrong>
 			<answerWrong>
-				Thomas Jefferson
+				29
 			</answerWrong>
 			<answerWrong>
-				John Adams
+				27
 			</answerWrong>
 			<answerRight>
-				George Washington
+				28
 			</answerRight>
 		</question>
 		<question rank="4">
 			<name>
-				En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?
+				من هو الملك الذي كان يحكم مملكة سبأ؟
 			</name>
 			<answerWrong>
-				1965
+				سليمان
 			</answerWrong>
 			<answerWrong>
-				1972
+				النمرود
 			</answerWrong>
 			<answerWrong>
-				1980
+				فرعون
 			</answerWrong>
 			<answerRight>
-				1969
+				بلقيس
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				En quelle année a commencé la Seconde Guerre mondiale ?
+				Quel est le nombre approximatif d'étoiles dans la Voie Lactée ?
 			</name>
 			<answerWrong>
-				1914
+				100 millions
 			</answerWrong>
 			<answerWrong>
-				1945
+				10 milliards
 			</answerWrong>
 			<answerWrong>
-				1950
+				500 milliards
 			</answerWrong>
 			<answerRight>
-				1939
+				200 milliards
 			</answerRight>
 		</question>
 		<question rank="6">
-			<name>
-				Quel événement a marqué la fin de la Seconde Guerre mondiale en Europe ?
-			</name>
-			<answerWrong>
-				Le débarquement de Normandie
-			</answerWrong>
-			<answerWrong>
-				La bataille de Stalingrad
-			</answerWrong>
-			<answerWrong>
-				L'attaque de Pearl Harbor
-			</answerWrong>
-			<answerRight>
-				La capitulation de l'Allemagne
-			</answerRight>
+			<name>Quelle est la plus petite planète du système solaire ?</name>
+      <answerWrong>Vénus</answerWrong>
+      <answerWrong>Terre</answerWrong>
+      <answerWrong>Neptune</answerWrong>
+      <answerRight>Mercure</answerRight>
 		</question>
 		<question rank="7">
 			<name>
-				Quelle est la langue la plus parlée dans le monde ?
+				Quelle est la principale épice utilisée dans la cuisine indienne pour le curry ?
 			</name>
 			<answerWrong>
-				L’anglais
+				Paprika
 			</answerWrong>
 			<answerWrong>
-				L’espagnol
+				Cumin
 			</answerWrong>
 			<answerWrong>
-				L’hindi
+				Poivre
 			</answerWrong>
 			<answerRight>
-				Le mandarin
+				Curcuma
 			</answerRight>
 		</question>
 		<question rank="8">
 			<name>
-				Combien de continents y a-t-il sur Terre ?
+				ما هي الكلمة في اللغة العربية التي يمكن قراءتها من اليمين أو اليسار بنفس الشكل؟
 			</name>
 			<answerWrong>
-				5
+				كبير
 			</answerWrong>
 			<answerWrong>
-				6
+				رمان
 			</answerWrong>
 			<answerWrong>
-				8
+				طبيب
 			</answerWrong>
 			<answerRight>
-				7
+				ليل
 			</answerRight>
 		</question>
 		<question rank="9">
 			<name>
-				Quel est le plus grand reptile du monde ?
+				Quelle est la langue officielle au Brésil ?
 			</name>
 			<answerWrong>
-				Le python réticulé
+				L'espagnol
 			</answerWrong>
 			<answerWrong>
-				Le varan de Komodo
+				L'anglais
 			</answerWrong>
 			<answerWrong>
-				La tortue luth
+				Le français
 			</answerWrong>
 			<answerRight>
-				Le crocodile marin
+				Le portugais
 			</answerRight>
 		</question>
 		<question rank="10">
 			<name>
-				Quel pays a été dirigé par Winston Churchill pendant la Seconde Guerre mondiale ?
+				ما هو الاسم الذي يُطلق على سورة الفاتحة؟
 			</name>
 			<answerWrong>
-				France
+				سورة الحمد
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				سورة النور
 			</answerWrong>
 			<answerWrong>
-				Allemagne
+				سورة الأحزاب
 			</answerWrong>
 			<answerRight>
-				Royaume-Uni
+				أم الكتاب
 			</answerRight>
 		</question>
 		<question rank="11">
 			<name>
-				Qui a formulé la théorie de la relativité ?
+				Quel est le plus grand organe du corps humain ?
 			</name>
 			<answerWrong>
-				Isaac Newton
+				Le foie
 			</answerWrong>
 			<answerWrong>
-				Nikola Tesla
+				Le cœur
 			</answerWrong>
 			<answerWrong>
-				Galileo Galilei
+				Les poumons
 			</answerWrong>
 			<answerRight>
-				Albert Einstein
+				La peau
 			</answerRight>
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la composition de l'air que nous respirons ?
+				ما هو البحر الذي يسمى \"بحر الظلمات\"؟
 			</name>
 			<answerWrong>
-				50% d'azote, 30% d'oxygène
+				البحر الأحمر
 			</answerWrong>
 			<answerWrong>
-				21% d'azote, 78% d'oxygène
+				بحر قزوين
 			</answerWrong>
 			<answerWrong>
-				100% d'oxygène
+				البحر الأبيض المتوسط
 			</answerWrong>
 			<answerRight>
-				78% d'azote, 21% d'oxygène
+				المحيط الأطلسي
 			</answerRight>
 		</question>
 		<question rank="13">
 			<name>
-				Quel est l’organe responsable de la production des globules rouges ?
+				Combien de temps met la lumière pour parvenir de la Terre à la Lune ?
+			</name>
+			<answerWrong>
+				1 seconde
+			</answerWrong>
+			<answerWrong>
+				0,5 seconde
+			</answerWrong>
+			<answerWrong>
+				5 secondes
+			</answerWrong>
+			<answerRight>
+				1,3 seconde
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la forme correcte du verbe avoir au futur simple, à la première personne du singulier ?
+			</name>
+			<answerWrong>
+				J'ai
+			</answerWrong>
+			<answerWrong>
+				J'aurais
+			</answerWrong>
+			<answerWrong>
+				J'avais
+			</answerWrong>
+			<answerRight>
+				J'aurai
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Quel organe est responsable de la production de l'insuline ?
 			</name>
 			<answerWrong>
 				Le foie
@@ -206,44 +240,10 @@
 				Les reins
 			</answerWrong>
 			<answerWrong>
-				Le cœur
+				L'estomac
 			</answerWrong>
 			<answerRight>
-				La moelle osseuse
-			</answerRight>
-		</question>
-		<question rank="14">
-			<name>
-				Quel est le nom du créateur de Facebook ?
-			</name>
-			<answerWrong>
-				Bill Gates
-			</answerWrong>
-			<answerWrong>
-				Steve Jobs
-			</answerWrong>
-			<answerWrong>
-				Elon Musk
-			</answerWrong>
-			<answerRight>
-				Mark Zuckerberg
-			</answerRight>
-		</question>
-		<question rank="15">
-			<name>
-				Combien d'os composent le squelette humain à l'âge adulte ?
-			</name>
-			<answerWrong>
-				212
-			</answerWrong>
-			<answerWrong>
-				220
-			</answerWrong>
-			<answerWrong>
-				200
-			</answerWrong>
-			<answerRight>
-				206
+				Le pancréas
 			</answerRight>
 		</question>
 	</questions>

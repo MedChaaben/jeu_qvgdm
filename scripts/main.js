@@ -1,8 +1,11 @@
 // name of xml file 'quiz.xml' or the api returning the xml file 'http://localhost:3000/fetch-questions-i18n'
-const useThisfile =
-  window.location.search === '?lang=file'
-    ? 'quiz.xml'
-    : `http://localhost:3000/fetch-questions-i18n${window.location.search}`;
+const computeQuizz = () => {
+  if (window.location.search.includes('.xml')) {
+    return window.location.search.split('=')[1];
+  } else {
+    return `http://localhost:3000/fetch-questions-i18n${window.location.search}`;
+  }
+}
 
 const generiqueSound = document.getElementById('generiqueSound');
 const answerSound = document.getElementById('answerSound');
@@ -41,6 +44,14 @@ class Medallion {
       this.logoimg.src = 'images/logo_won.png';
       generiqueSound.play();
       document.getElementById('main').style.opacity = 0.5;
+    });
+  }
+
+  force() {
+    this.rotate(90, 360, 5, () => {
+      this.logoimg.src = 'images/logo.png';
+      generiqueSound.pause();
+      document.getElementById('main').style.opacity = 1;
     });
   }
 
@@ -168,7 +179,7 @@ class LeaderBoard {
       const prevRankElement = document.getElementById('r_' + (rank - 1));
       prevRankElement.classList.remove('marked');
     }
-    rankElement.classList.add('marked');
+    rankElement?.classList.add('marked');
   }
 
   useJoker(type) {
@@ -211,6 +222,12 @@ class Game {
     );
     this.nextQuestionButton.style.display = 'none'; // Cacher le bouton au début
 
+    this.forceNextButton = document.getElementById('forceNextButton');
+    this.forceNextButton.addEventListener(
+      'click',
+      this.forceNextQuestion.bind(this)
+    );
+
     // event clavier
     document.addEventListener('keydown', (event) => this.handlerKeybord(event));
 
@@ -223,6 +240,16 @@ class Game {
     this.questionBoard.clear();
     this.clickable = true; // Rendre les réponses cliquables pour la nouvelle question
   }
+
+  forceNextQuestion() {
+    this.rank++;
+    if (this.rank <= this.maxrank) {
+      this.handleNextQuestionClick();
+      this.medallion.force();
+    } else {
+      this.medallion.win(); // Si aucune question n'est disponible, l'utilisateur gagne
+    }
+  }  
 
   parseXML() {
     const xmlhttp = window.XMLHttpRequest
@@ -258,7 +285,7 @@ class Game {
     };
 
     try {
-      xmlhttp.open('GET', useThisfile, false);
+      xmlhttp.open('GET', computeQuizz(), false);
       xmlhttp.send();
     } catch (error) {
       alert(error);
@@ -389,5 +416,12 @@ class Game {
 }
 
 // set value of select language
-document.getElementById('lang').value = window.location.search.slice(6) || 'en';
+document.addEventListener("DOMContentLoaded", () => {
+  if (!window.location.search) {
+    const defaultValue = "quiz1.xml";
+    window.location.search = `?lang=${defaultValue}`;
+  }
+  document.getElementById('lang').value = window.location.search.slice(6);
+});
+
 const game = new Game();

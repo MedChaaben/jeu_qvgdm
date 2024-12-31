@@ -1,249 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quiz name="quiz">
+<quiz name="quiz 4">
 	<questions>
 		<question rank="1">
-      <name>ما هو أول مسجد بُني في الإسلام؟</name>
-      <answerWrong>المسجد الحرام</answerWrong>
-      <answerWrong>المسجد النبوي</answerWrong>
-      <answerWrong>المسجد الأقصى</answerWrong>
-      <answerRight>مسجد قباء</answerRight>
-    </question>
-		<question rank="2">
 			<name>
-				Quel pays est le plus grand du monde par sa superficie ?
+				ما هي الكلمة التي بدأت بها سورة المجادلة؟
 			</name>
 			<answerWrong>
-				Chine
+				سمع
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				قال
 			</answerWrong>
 			<answerWrong>
-				Canada
+				وعد
 			</answerWrong>
 			<answerRight>
-				Russie
+				قد
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Dans quel pays se trouve la ville sacrée de Lhassa, autrefois interdite aux étrangers ?
+			</name>
+			<answerWrong>
+				Népal
+			</answerWrong>
+			<answerWrong>
+				Bhoutan
+			</answerWrong>
+			<answerWrong>
+				Inde
+			</answerWrong>
+			<answerRight>
+				Tibet
 			</answerRight>
 		</question>
 		<question rank="3">
 			<name>
-				Qui était le premier président des États-Unis ?
+				من هو الصحابي الذي قال عنه النبي: "يمشي وحده ويموت وحده ويبعث وحده"؟
 			</name>
 			<answerWrong>
-				Abraham Lincoln
+				علي بن أبي طالب
 			</answerWrong>
 			<answerWrong>
-				Thomas Jefferson
+				أبو بكر الصديق
 			</answerWrong>
 			<answerWrong>
-				John Adams
+				سعد بن معاذ
 			</answerWrong>
 			<answerRight>
-				George Washington
+				أبو ذر الغفاري
 			</answerRight>
 		</question>
 		<question rank="4">
 			<name>
-				En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?
+				Quel est le pays le plus vaste du continent sud-américain ?
 			</name>
 			<answerWrong>
-				1965
+				Argentine
 			</answerWrong>
 			<answerWrong>
-				1972
+				Colombie
 			</answerWrong>
 			<answerWrong>
-				1980
+				Venezuela
 			</answerWrong>
 			<answerRight>
-				1969
+				Brésil
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				En quelle année a commencé la Seconde Guerre mondiale ?
+				كم عدد الأنبياء الذين ذكروا في القرآن الكريم؟
 			</name>
 			<answerWrong>
-				1914
+				15
 			</answerWrong>
 			<answerWrong>
-				1945
+				20
 			</answerWrong>
 			<answerWrong>
-				1950
+				23
 			</answerWrong>
 			<answerRight>
-				1939
+				25
 			</answerRight>
 		</question>
 		<question rank="6">
 			<name>
-				Quel événement a marqué la fin de la Seconde Guerre mondiale en Europe ?
+				Quelle couleur est située tout en haut d'un arc en ciel ?
 			</name>
 			<answerWrong>
-				Le débarquement de Normandie
+				Bleu
 			</answerWrong>
 			<answerWrong>
-				La bataille de Stalingrad
+				Violet
 			</answerWrong>
 			<answerWrong>
-				L'attaque de Pearl Harbor
+				Jaune
 			</answerWrong>
 			<answerRight>
-				La capitulation de l'Allemagne
+				Rouge
 			</answerRight>
 		</question>
 		<question rank="7">
 			<name>
-				Quelle est la langue la plus parlée dans le monde ?
+				من هو النبي الذي طلب من الله إنزال مائدة من السماء؟
 			</name>
 			<answerWrong>
-				L’anglais
+				إبراهيم عليه السلام
 			</answerWrong>
 			<answerWrong>
-				L’espagnol
+				موسى عليه السلام
 			</answerWrong>
 			<answerWrong>
-				L’hindi
+				نوح عليه السلام
 			</answerWrong>
-			<answerRight>
-				Le mandarin
+      <answerRight>
+				عيسى عليه السلام
 			</answerRight>
 		</question>
 		<question rank="8">
 			<name>
-				Combien de continents y a-t-il sur Terre ?
+				Quel est le pays surnommé "le pays des mille collines" ?
 			</name>
 			<answerWrong>
-				5
+				Éthiopie
 			</answerWrong>
 			<answerWrong>
-				6
+				Ouganda
 			</answerWrong>
 			<answerWrong>
-				8
+				Kenya
 			</answerWrong>
 			<answerRight>
-				7
+				Rwanda
 			</answerRight>
 		</question>
 		<question rank="9">
 			<name>
-				Quel est le plus grand reptile du monde ?
+				 ما هو الدعاء الذي ورد عن النبي عند الخروج من المسجد؟
 			</name>
 			<answerWrong>
-				Le python réticulé
+				سبحان الله
 			</answerWrong>
 			<answerWrong>
-				Le varan de Komodo
+				الحمد لله
 			</answerWrong>
 			<answerWrong>
-				La tortue luth
+				لا إله إلا الله
 			</answerWrong>
 			<answerRight>
-				Le crocodile marin
+				اللهم افتح لي أبواب فضلك 
 			</answerRight>
 		</question>
 		<question rank="10">
 			<name>
-				Quel pays a été dirigé par Winston Churchill pendant la Seconde Guerre mondiale ?
+				Quelle danse vient d'Argentine ?
 			</name>
 			<answerWrong>
-				France
+				La salsa
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				La batchata
 			</answerWrong>
 			<answerWrong>
-				Allemagne
+				Le flamenco
 			</answerWrong>
 			<answerRight>
-				Royaume-Uni
+				Le tango
 			</answerRight>
 		</question>
 		<question rank="11">
 			<name>
-				Qui a formulé la théorie de la relativité ?
+				ما هو الجبل الذي كلم الله عليه موسى عليه السلام؟
 			</name>
 			<answerWrong>
-				Isaac Newton
+				جبل أحد
 			</answerWrong>
 			<answerWrong>
-				Nikola Tesla
+				جبل طارق
 			</answerWrong>
 			<answerWrong>
-				Galileo Galilei
+				جبل النور
 			</answerWrong>
 			<answerRight>
-				Albert Einstein
+				جبل الطور
 			</answerRight>
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la composition de l'air que nous respirons ?
+				Dans quel océan se trouve l'île de Madagascar ?
 			</name>
 			<answerWrong>
-				50% d'azote, 30% d'oxygène
+				L'Atlantique
 			</answerWrong>
 			<answerWrong>
-				21% d'azote, 78% d'oxygène
+				Le Pacifique
 			</answerWrong>
 			<answerWrong>
-				100% d'oxygène
+				L'Arctique
 			</answerWrong>
 			<answerRight>
-				78% d'azote, 21% d'oxygène
+				L'océan Indien
 			</answerRight>
 		</question>
 		<question rank="13">
 			<name>
-				Quel est l’organe responsable de la production des globules rouges ?
+				 ما هي السورة التي تُعتبر قلب القرآن الكريم؟
 			</name>
 			<answerWrong>
-				Le foie
+				سورة الإخلاص
 			</answerWrong>
 			<answerWrong>
-				Les reins
+				سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				Le cœur
+				سورة الكافرون
 			</answerWrong>
 			<answerRight>
-				La moelle osseuse
+				سورة يس
 			</answerRight>
 		</question>
 		<question rank="14">
 			<name>
-				Quel est le nom du créateur de Facebook ?
+				Combien de temps met la lumière du soleil pour atteindre la terre ?
 			</name>
 			<answerWrong>
-				Bill Gates
+				8 jours
 			</answerWrong>
 			<answerWrong>
-				Steve Jobs
+				8 heures
 			</answerWrong>
 			<answerWrong>
-				Elon Musk
+				8 secondes
 			</answerWrong>
 			<answerRight>
-				Mark Zuckerberg
+				8 minutes
 			</answerRight>
 		</question>
 		<question rank="15">
 			<name>
-				Combien d'os composent le squelette humain à l'âge adulte ?
+				Dans laquelle de ces phrases l'accord du participe passé est-il correct ?
 			</name>
 			<answerWrong>
-				212
+				Elles se sont permis de partir avant l'heure.
 			</answerWrong>
 			<answerWrong>
-				220
+				Elles se sont lavé les mains après le repas.
 			</answerWrong>
 			<answerWrong>
-				200
+				Ils se sont parlé au téléphone durant des heures.
 			</answerWrong>
 			<answerRight>
-				206
+        Elle s'est aperçue de son erreur rapidement.
 			</answerRight>
 		</question>
 	</questions>

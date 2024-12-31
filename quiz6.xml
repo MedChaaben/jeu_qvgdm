@@ -50,11 +50,11 @@
       <answerRight>Mars</answerRight>
     </question>
     <question rank="8">
-      <name>Dans quel pays se trouve la ville de Tokyo ?</name>
-      <answerWrong>Chine</answerWrong>
-      <answerWrong>Corée du Sud</answerWrong>
-      <answerWrong>Thaïlande</answerWrong>
-      <answerRight>Japon</answerRight>
+      <name>Qui est considéré comme le plus grand poète français de tous les temps ?</name>
+      <answerWrong>Victor Hugo</answerWrong>
+      <answerWrong>Arthur Rimbaud</answerWrong>
+      <answerWrong>Paul Verlaine</answerWrong>
+      <answerRight>Charles Baudelaire</answerRight>
     </question>
     <question rank="9">
       <name>Quel est le plus grand désert du monde ?</name>
@@ -85,11 +85,11 @@
       <answerRight>Foie</answerRight>
     </question>
     <question rank="13">
-      <name>Quelle est la plus petite planète du système solaire ?</name>
-      <answerWrong>Vénus</answerWrong>
-      <answerWrong>Terre</answerWrong>
+      <name>Quelle est la plus grande planète du système solaire ?</name>
+      <answerWrong>Saturne</answerWrong>
+      <answerWrong>Uranus</answerWrong>
       <answerWrong>Neptune</answerWrong>
-      <answerRight>Mercure</answerRight>
+      <answerRight>Jupiter</answerRight>
     </question>
     <question rank="14">
       <name>Qui a peint 'La Nuit étoilée' ?</name>
@@ -99,11 +99,11 @@
       <answerRight>Vincent van Gogh</answerRight>
     </question>
     <question rank="15">
-      <name>Quel est le livre le plus vendu dans le monde après la Bible ?</name>
-      <answerWrong>Le Petit Prince</answerWrong>
-      <answerWrong>Harry Potter et la Pierre Philosophale</answerWrong>
-      <answerWrong>Le Seigneur des Anneaux</answerWrong>
-      <answerRight>Le Livre Rouge de Mao Zedong</answerRight>
+      <name>Quel est le livre le plus vendu dans le monde ?</name>
+      <answerWrong>Le Livre Rouge de Mao Zedong</answerWrong>
+      <answerWrong>Le Coran</answerWrong>
+      <answerWrong>Don Quichotte</answerWrong>
+      <answerRight>La bible</answerRight>
     </question>
   </questions>
 </quiz>

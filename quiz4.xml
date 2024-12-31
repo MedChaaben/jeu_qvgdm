@@ -1,249 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quiz name="quiz">
+<quiz name="quiz 4">
 	<questions>
 		<question rank="1">
-      <name>ما هو أول مسجد بُني في الإسلام؟</name>
-      <answerWrong>المسجد الحرام</answerWrong>
-      <answerWrong>المسجد النبوي</answerWrong>
-      <answerWrong>المسجد الأقصى</answerWrong>
-      <answerRight>مسجد قباء</answerRight>
-    </question>
-		<question rank="2">
 			<name>
-				Quel pays est le plus grand du monde par sa superficie ?
+				ما هي الكلمة التي بدأت بها سورة الكهف؟
 			</name>
 			<answerWrong>
-				Chine
+				بسم
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				قل
 			</answerWrong>
 			<answerWrong>
-				Canada
+				إن
 			</answerWrong>
 			<answerRight>
-				Russie
+				الحمد
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Dans quel pays peut-on visiter le Machu Picchu ?
+			</name>
+			<answerWrong>
+				La Bolivie
+			</answerWrong>
+			<answerWrong>
+				Le Chili
+			</answerWrong>
+			<answerWrong>
+				L'Équateur
+			</answerWrong>
+			<answerRight>
+				Le Pérou
 			</answerRight>
 		</question>
 		<question rank="3">
 			<name>
-				Qui était le premier président des États-Unis ?
+				من هو الصحابي الذي أمر بجمع القرآن الكريم؟
 			</name>
 			<answerWrong>
-				Abraham Lincoln
+				عمر بن الخطاب
 			</answerWrong>
 			<answerWrong>
-				Thomas Jefferson
+				علي بن أبي طالب
 			</answerWrong>
 			<answerWrong>
-				John Adams
+				أبو بكر الصديق
 			</answerWrong>
 			<answerRight>
-				George Washington
+				عثمان بن عفان
 			</answerRight>
 		</question>
 		<question rank="4">
 			<name>
-				En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?
+				Quel est le plus grand lac d'eau douce du monde par superficie ?
 			</name>
 			<answerWrong>
-				1965
+				Le lac Baïkal
 			</answerWrong>
 			<answerWrong>
-				1972
+				Le lac Victoria
 			</answerWrong>
 			<answerWrong>
-				1980
+				Le lac Huron
 			</answerWrong>
 			<answerRight>
-				1969
+				Le lac Supérieur
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				En quelle année a commencé la Seconde Guerre mondiale ?
+				كم مرة ذُكر اسم "إبراهيم" في القرآن الكريم؟
 			</name>
 			<answerWrong>
-				1914
+				50 مرة
 			</answerWrong>
 			<answerWrong>
-				1945
+				70 مرة
 			</answerWrong>
 			<answerWrong>
-				1950
+				90 مرة
 			</answerWrong>
 			<answerRight>
-				1939
+				69 مرة
 			</answerRight>
 		</question>
 		<question rank="6">
 			<name>
-				Quel événement a marqué la fin de la Seconde Guerre mondiale en Europe ?
+				Dans quelle ville italienne se trouve le Colisée ?
 			</name>
 			<answerWrong>
-				Le débarquement de Normandie
+				Milan
 			</answerWrong>
 			<answerWrong>
-				La bataille de Stalingrad
+				Florence
 			</answerWrong>
 			<answerWrong>
-				L'attaque de Pearl Harbor
+				Naples
 			</answerWrong>
 			<answerRight>
-				La capitulation de l'Allemagne
+				Rome
 			</answerRight>
 		</question>
 		<question rank="7">
 			<name>
-				Quelle est la langue la plus parlée dans le monde ?
+				من هو النبي الذي سأل الله أن يريه كيف يحيي الموتى؟
 			</name>
 			<answerWrong>
-				L’anglais
+				عيسى عليه السلام
 			</answerWrong>
 			<answerWrong>
-				L’espagnol
+				موسى عليه السلام
 			</answerWrong>
 			<answerWrong>
-				L’hindi
+				نوح عليه السلام
 			</answerWrong>
 			<answerRight>
-				Le mandarin
+				إبراهيم عليه السلام
 			</answerRight>
 		</question>
 		<question rank="8">
 			<name>
-				Combien de continents y a-t-il sur Terre ?
+				Quel est le seul continent où aucun serpent n'est indigène ?
 			</name>
 			<answerWrong>
-				5
+				L'Afrique
 			</answerWrong>
 			<answerWrong>
-				6
+				L'Europe
 			</answerWrong>
 			<answerWrong>
-				8
+				L'Asie
 			</answerWrong>
 			<answerRight>
-				7
+				L'Antarctique
 			</answerRight>
 		</question>
 		<question rank="9">
 			<name>
-				Quel est le plus grand reptile du monde ?
+				ما هو الدعاء الذي ورد عن النبي عند دخول المسجد؟
 			</name>
 			<answerWrong>
-				Le python réticulé
+				رب اغفر لي
 			</answerWrong>
 			<answerWrong>
-				Le varan de Komodo
+				سبحان الله
 			</answerWrong>
 			<answerWrong>
-				La tortue luth
+				اللهم بارك لي
 			</answerWrong>
 			<answerRight>
-				Le crocodile marin
+				اللهم افتح لي أبواب رحمتك
 			</answerRight>
 		</question>
 		<question rank="10">
 			<name>
-				Quel pays a été dirigé par Winston Churchill pendant la Seconde Guerre mondiale ?
+				Quelle est la capitale de la Norvège ?
 			</name>
 			<answerWrong>
-				France
+				Copenhague
 			</answerWrong>
 			<answerWrong>
-				États-Unis
+				Stockholm
 			</answerWrong>
 			<answerWrong>
-				Allemagne
+				Helsinki
 			</answerWrong>
 			<answerRight>
-				Royaume-Uni
+				Oslo
 			</answerRight>
 		</question>
 		<question rank="11">
 			<name>
-				Qui a formulé la théorie de la relativité ?
+				من هو النبي الذي أمره الله بخلع نعليه عند الوادي المقدس؟
 			</name>
 			<answerWrong>
-				Isaac Newton
+				إبراهيم عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Nikola Tesla
+				محمد صلى الله عليه وسلم
 			</answerWrong>
 			<answerWrong>
-				Galileo Galilei
+				عيسى عليه السلام
 			</answerWrong>
 			<answerRight>
-				Albert Einstein
+				موسى عليه السلام
 			</answerRight>
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la composition de l'air que nous respirons ?
+				Quel est le seul drapeau du monde qui n'est pas rectangulaire ?
 			</name>
 			<answerWrong>
-				50% d'azote, 30% d'oxygène
+				Sri Lanka
 			</answerWrong>
 			<answerWrong>
-				21% d'azote, 78% d'oxygène
+				Bhoutan
 			</answerWrong>
 			<answerWrong>
-				100% d'oxygène
+				Qatar
 			</answerWrong>
 			<answerRight>
-				78% d'azote, 21% d'oxygène
+				Népal
 			</answerRight>
 		</question>
 		<question rank="13">
 			<name>
-				Quel est l’organe responsable de la production des globules rouges ?
+				ما هي أول سورة في الجزء الثلاثين من القرآن الكريم؟
 			</name>
 			<answerWrong>
-				Le foie
+				سورة الفلق
 			</answerWrong>
 			<answerWrong>
-				Les reins
+				سورة العاديات
 			</answerWrong>
 			<answerWrong>
-				Le cœur
+				سورة التكوير
 			</answerWrong>
 			<answerRight>
-				La moelle osseuse
+				سورة النبأ
 			</answerRight>
 		</question>
 		<question rank="14">
 			<name>
-				Quel est le nom du créateur de Facebook ?
+				Quel désert est connu comme étant le plus froid au monde ?
 			</name>
 			<answerWrong>
-				Bill Gates
+				Le Sahara
 			</answerWrong>
 			<answerWrong>
-				Steve Jobs
+				Le Gobi
 			</answerWrong>
 			<answerWrong>
-				Elon Musk
+				Le désert d'Atacama
 			</answerWrong>
 			<answerRight>
-				Mark Zuckerberg
+				Le désert d'Antarctique
 			</answerRight>
 		</question>
 		<question rank="15">
 			<name>
-				Combien d'os composent le squelette humain à l'âge adulte ?
+				ما هي الأداة النحوية التي تستخدم للتمني؟
 			</name>
 			<answerWrong>
-				212
+				لو
 			</answerWrong>
 			<answerWrong>
-				220
+				قد
 			</answerWrong>
 			<answerWrong>
-				200
+				لكن
 			</answerWrong>
 			<answerRight>
-				206
+				ليت
 			</answerRight>
 		</question>
 	</questions>
