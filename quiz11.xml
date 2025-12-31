@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 11">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le plus grand pays d'Afrique par superficie ?
+			</name>
+			<answerWrong>
+				Le Congo
+			</answerWrong>
+			<answerWrong>
+				Le Soudan
+			</answerWrong>
+			<answerWrong>
+				L'Angola
+			</answerWrong>
+			<answerRight>
+				L'Algérie
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Les Fables" de La Fontaine ?
+			</name>
+			<answerWrong>
+				Molière
+			</answerWrong>
+			<answerWrong>
+				Jean Racine
+			</answerWrong>
+			<answerWrong>
+				Pierre Corneille
+			</answerWrong>
+			<answerRight>
+				Jean de La Fontaine
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la planète la plus proche du Soleil ?
+			</name>
+			<answerWrong>
+				Vénus
+			</answerWrong>
+			<answerWrong>
+				La Terre
+			</answerWrong>
+			<answerWrong>
+				Mars
+			</answerWrong>
+			<answerRight>
+				Mercure
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quel est le plus long fleuve d'Europe ?
+			</name>
+			<answerWrong>
+				Le Rhin
+			</answerWrong>
+			<answerWrong>
+				Le Danube
+			</answerWrong>
+			<answerWrong>
+				La Loire
+			</answerWrong>
+			<answerRight>
+				La Volga
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Qui a peint "La Naissance de Vénus" ?
+			</name>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Raphaël
+			</answerWrong>
+			<answerWrong>
+				Donatello
+			</answerWrong>
+			<answerRight>
+				Sandro Botticelli
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la capitale de la Finlande ?
+			</name>
+			<answerWrong>
+				Tampere
+			</answerWrong>
+			<answerWrong>
+				Turku
+			</answerWrong>
+			<answerWrong>
+				Oulu
+			</answerWrong>
+			<answerRight>
+				Helsinki
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Combien de muscles possède le corps humain ?
+			</name>
+			<answerWrong>
+				Environ 500
+			</answerWrong>
+			<answerWrong>
+				Environ 700
+			</answerWrong>
+			<answerWrong>
+				Environ 900
+			</answerWrong>
+			<answerRight>
+				Environ 600
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quel est le troisième plus grand océan du monde ?
+			</name>
+			<answerWrong>
+				L'océan Atlantique
+			</answerWrong>
+			<answerWrong>
+				L'océan Arctique
+			</answerWrong>
+			<answerWrong>
+				L'océan Austral
+			</answerWrong>
+			<answerRight>
+				L'océan Indien
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Qui a composé "Les Quatre Saisons" ?
+			</name>
+			<answerWrong>
+				Mozart
+			</answerWrong>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerRight>
+				Antonio Vivaldi
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quelle est la capitale de la Suède ?
+			</name>
+			<answerWrong>
+				Göteborg
+			</answerWrong>
+			<answerWrong>
+				Malmö
+			</answerWrong>
+			<answerWrong>
+				Uppsala
+			</answerWrong>
+			<answerRight>
+				Stockholm
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Quel est le plus petit os du corps humain ?
+			</name>
+			<answerWrong>
+				L'os du poignet
+			</answerWrong>
+			<answerWrong>
+				L'os de la cheville
+			</answerWrong>
+			<answerWrong>
+				L'os du doigt
+			</answerWrong>
+			<answerRight>
+				L'étrier (dans l'oreille)
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Qui a écrit "Le Comte de Monte-Cristo" ?
+			</name>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Jules Verne
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerRight>
+				Alexandre Dumas
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quel est le plus grand pays d'Amérique du Nord ?
+			</name>
+			<answerWrong>
+				Les États-Unis
+			</answerWrong>
+			<answerWrong>
+				Le Mexique
+			</answerWrong>
+			<answerWrong>
+				Le Groenland
+			</answerWrong>
+			<answerRight>
+				Le Canada
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la température de congélation de l'eau ?
+			</name>
+			<answerWrong>
+				1°C
+			</answerWrong>
+			<answerWrong>
+				-1°C
+			</answerWrong>
+			<answerWrong>
+				2°C
+			</answerWrong>
+			<answerRight>
+				0°C
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a inventé la machine à vapeur ?
+			</name>
+			<answerWrong>
+				Thomas Edison
+			</answerWrong>
+			<answerWrong>
+				Benjamin Franklin
+			</answerWrong>
+			<answerWrong>
+				Robert Fulton
+			</answerWrong>
+			<answerRight>
+				James Watt
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

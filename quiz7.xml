@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 7">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale de l'Australie ?
+			</name>
+			<answerWrong>
+				Sydney
+			</answerWrong>
+			<answerWrong>
+				Melbourne
+			</answerWrong>
+			<answerWrong>
+				Brisbane
+			</answerWrong>
+			<answerRight>
+				Canberra
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a peint la célèbre œuvre "La Joconde" ?
+			</name>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Raphaël
+			</answerWrong>
+			<answerWrong>
+				Picasso
+			</answerWrong>
+			<answerRight>
+				Léonard de Vinci
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus long fleuve du monde ?
+			</name>
+			<answerWrong>
+				Le Mississippi
+			</answerWrong>
+			<answerWrong>
+				Le Yangtsé
+			</answerWrong>
+			<answerWrong>
+				Le Nil
+			</answerWrong>
+			<answerRight>
+				L'Amazone
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				En quelle année a eu lieu la chute du mur de Berlin ?
+			</name>
+			<answerWrong>
+				1987
+			</answerWrong>
+			<answerWrong>
+				1991
+			</answerWrong>
+			<answerWrong>
+				1985
+			</answerWrong>
+			<answerRight>
+				1989
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le plus petit pays du monde ?
+			</name>
+			<answerWrong>
+				Monaco
+			</answerWrong>
+			<answerWrong>
+				San Marino
+			</answerWrong>
+			<answerWrong>
+				Liechtenstein
+			</answerWrong>
+			<answerRight>
+				Le Vatican
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a écrit "Le Petit Prince" ?
+			</name>
+			<answerWrong>
+				Jules Verne
+			</answerWrong>
+			<answerWrong>
+				Marcel Proust
+			</answerWrong>
+			<answerWrong>
+				Albert Camus
+			</answerWrong>
+			<answerRight>
+				Antoine de Saint-Exupéry
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quelle est la vitesse de la lumière dans le vide ?
+			</name>
+			<answerWrong>
+				200 000 km/s
+			</answerWrong>
+			<answerWrong>
+				250 000 km/s
+			</answerWrong>
+			<answerWrong>
+				350 000 km/s
+			</answerWrong>
+			<answerRight>
+				300 000 km/s
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quel pays a remporté la Coupe du Monde de football en 2018 ?
+			</name>
+			<answerWrong>
+				L'Allemagne
+			</answerWrong>
+			<answerWrong>
+				L'Argentine
+			</answerWrong>
+			<answerWrong>
+				Le Brésil
+			</answerWrong>
+			<answerRight>
+				La France
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Combien de dents possède un adulte normalement ?
+			</name>
+			<answerWrong>
+				28
+			</answerWrong>
+			<answerWrong>
+				30
+			</answerWrong>
+			<answerWrong>
+				34
+			</answerWrong>
+			<answerRight>
+				32
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le symbole chimique de l'or ?
+			</name>
+			<answerWrong>
+				Or
+			</answerWrong>
+			<answerWrong>
+				Go
+			</answerWrong>
+			<answerWrong>
+				Og
+			</answerWrong>
+			<answerRight>
+				Au
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Dans quel pays se trouve la ville de Machu Picchu ?
+			</name>
+			<answerWrong>
+				Le Mexique
+			</answerWrong>
+			<answerWrong>
+				Le Guatemala
+			</answerWrong>
+			<answerWrong>
+				La Bolivie
+			</answerWrong>
+			<answerRight>
+				Le Pérou
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Qui a composé "Don Giovanni" ?
+			</name>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerWrong>
+				Haydn
+			</answerWrong>
+			<answerRight>
+				Mozart
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quel est le plus grand lac d'Afrique ?
+			</name>
+			<answerWrong>
+				Le lac Tanganyika
+			</answerWrong>
+			<answerWrong>
+				Le lac Malawi
+			</answerWrong>
+			<answerWrong>
+				Le lac Tchad
+			</answerWrong>
+			<answerRight>
+				Le lac Victoria
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la température normale du corps humain en degrés Celsius ?
+			</name>
+			<answerWrong>
+				35,5°C
+			</answerWrong>
+			<answerWrong>
+				37,5°C
+			</answerWrong>
+			<answerWrong>
+				38°C
+			</answerWrong>
+			<answerRight>
+				37°C
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Quel est le nom de la plus haute montagne du monde ?
+			</name>
+			<answerWrong>
+				K2
+			</answerWrong>
+			<answerWrong>
+				Kangchenjunga
+			</answerWrong>
+			<answerWrong>
+				Lhotse
+			</answerWrong>
+			<answerRight>
+				Everest
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

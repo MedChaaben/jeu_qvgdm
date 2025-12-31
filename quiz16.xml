@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 16">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le deuxième plus grand pays du monde par superficie ?
+			</name>
+			<answerWrong>
+				La Chine
+			</answerWrong>
+			<answerWrong>
+				Les États-Unis
+			</answerWrong>
+			<answerWrong>
+				Le Brésil
+			</answerWrong>
+			<answerRight>
+				Le Canada
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Les Essais" ?
+			</name>
+			<answerWrong>
+				François Rabelais
+			</answerWrong>
+			<answerWrong>
+				Pierre de Ronsard
+			</answerWrong>
+			<answerWrong>
+				Joachim du Bellay
+			</answerWrong>
+			<answerRight>
+				Michel de Montaigne
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la planète connue comme "l'étoile du berger" ?
+			</name>
+			<answerWrong>
+				Mars
+			</answerWrong>
+			<answerWrong>
+				Jupiter
+			</answerWrong>
+			<answerWrong>
+				Mercure
+			</answerWrong>
+			<answerRight>
+				Vénus
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la capitale de l'Estonie ?
+			</name>
+			<answerWrong>
+				Tartu
+			</answerWrong>
+			<answerWrong>
+				Narva
+			</answerWrong>
+			<answerWrong>
+				Pärnu
+			</answerWrong>
+			<answerRight>
+				Tallinn
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de vertèbres composent la colonne vertébrale humaine ?
+			</name>
+			<answerWrong>
+				31
+			</answerWrong>
+			<answerWrong>
+				35
+			</answerWrong>
+			<answerWrong>
+				28
+			</answerWrong>
+			<answerRight>
+				33
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a peint "La Liberté guidant le peuple" ?
+			</name>
+			<answerWrong>
+				Théodore Géricault
+			</answerWrong>
+			<answerWrong>
+				Jean-Auguste-Dominique Ingres
+			</answerWrong>
+			<answerWrong>
+				Jacques-Louis David
+			</answerWrong>
+			<answerRight>
+				Eugène Delacroix
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand pays d'Asie du Sud-Est ?
+			</name>
+			<answerWrong>
+				La Thaïlande
+			</answerWrong>
+			<answerWrong>
+				Le Vietnam
+			</answerWrong>
+			<answerWrong>
+				La Malaisie
+			</answerWrong>
+			<answerRight>
+				L'Indonésie
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a découvert les rayons X ?
+			</name>
+			<answerWrong>
+				Marie Curie
+			</answerWrong>
+			<answerWrong>
+				Henri Becquerel
+			</answerWrong>
+			<answerWrong>
+				Ernest Rutherford
+			</answerWrong>
+			<answerRight>
+				Wilhelm Röntgen
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quelle est la capitale de la Lettonie ?
+			</name>
+			<answerWrong>
+				Daugavpils
+			</answerWrong>
+			<answerWrong>
+				Liepāja
+			</answerWrong>
+			<answerWrong>
+				Jelgava
+			</answerWrong>
+			<answerRight>
+				Riga
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand serpent du monde ?
+			</name>
+			<answerWrong>
+				Le cobra royal
+			</answerWrong>
+			<answerWrong>
+				L'anaconda vert
+			</answerWrong>
+			<answerWrong>
+				Le boa constricteur
+			</answerWrong>
+			<answerRight>
+				Le python réticulé
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a écrit "Les Pensées" ?
+			</name>
+			<answerWrong>
+				René Descartes
+			</answerWrong>
+			<answerWrong>
+				Blaise Pascal
+			</answerWrong>
+			<answerWrong>
+				Montesquieu
+			</answerWrong>
+			<answerRight>
+				Blaise Pascal
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la plus grande île d'Europe ?
+			</name>
+			<answerWrong>
+				L'Islande
+			</answerWrong>
+			<answerWrong>
+				L'Irlande
+			</answerWrong>
+			<answerWrong>
+				La Sicile
+			</answerWrong>
+			<answerRight>
+				La Grande-Bretagne
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Combien de temps met Jupiter pour faire une révolution autour du Soleil ?
+			</name>
+			<answerWrong>
+				10 ans
+			</answerWrong>
+			<answerWrong>
+				11 ans
+			</answerWrong>
+			<answerWrong>
+				13 ans
+			</answerWrong>
+			<answerRight>
+				12 ans
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale de la Lituanie ?
+			</name>
+			<answerWrong>
+				Kaunas
+			</answerWrong>
+			<answerWrong>
+				Klaipėda
+			</answerWrong>
+			<answerWrong>
+				Šiauliai
+			</answerWrong>
+			<answerRight>
+				Vilnius
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "Les Noces de Figaro" ?
+			</name>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerWrong>
+				Haydn
+			</answerWrong>
+			<answerRight>
+				Mozart
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 13">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le plus grand pays d'Asie par superficie ?
+			</name>
+			<answerWrong>
+				L'Inde
+			</answerWrong>
+			<answerWrong>
+				L'Arabie saoudite
+			</answerWrong>
+			<answerWrong>
+				L'Indonésie
+			</answerWrong>
+			<answerRight>
+				La Chine
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Don Quichotte" ?
+			</name>
+			<answerWrong>
+				Federico García Lorca
+			</answerWrong>
+			<answerWrong>
+				Miguel de Unamuno
+			</answerWrong>
+			<answerWrong>
+				Gabriel García Márquez
+			</answerWrong>
+			<answerRight>
+				Miguel de Cervantes
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la plus grande planète du système solaire après Jupiter ?
+			</name>
+			<answerWrong>
+				Uranus
+			</answerWrong>
+			<answerWrong>
+				Neptune
+			</answerWrong>
+			<answerWrong>
+				Mars
+			</answerWrong>
+			<answerRight>
+				Saturne
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la capitale de la Croatie ?
+			</name>
+			<answerWrong>
+				Split
+			</answerWrong>
+			<answerWrong>
+				Rijeka
+			</answerWrong>
+			<answerWrong>
+				Zadar
+			</answerWrong>
+			<answerRight>
+				Zagreb
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de dents de lait possède un enfant ?
+			</name>
+			<answerWrong>
+				18
+			</answerWrong>
+			<answerWrong>
+				22
+			</answerWrong>
+			<answerWrong>
+				26
+			</answerWrong>
+			<answerRight>
+				20
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a peint "Les Demoiselles d'Avignon" ?
+			</name>
+			<answerWrong>
+				Henri Matisse
+			</answerWrong>
+			<answerWrong>
+				Georges Braque
+			</answerWrong>
+			<answerWrong>
+				Salvador Dalí
+			</answerWrong>
+			<answerRight>
+				Pablo Picasso
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand fleuve d'Afrique ?
+			</name>
+			<answerWrong>
+				Le fleuve Congo
+			</answerWrong>
+			<answerWrong>
+				Le fleuve Niger
+			</answerWrong>
+			<answerWrong>
+				Le fleuve Zambèze
+			</answerWrong>
+			<answerRight>
+				Le Nil
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a inventé l'imprimerie ?
+			</name>
+			<answerWrong>
+				Leonardo da Vinci
+			</answerWrong>
+			<answerWrong>
+				Galilée
+			</answerWrong>
+			<answerWrong>
+				Isaac Newton
+			</answerWrong>
+			<answerRight>
+				Johannes Gutenberg
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quelle est la capitale de la Roumanie ?
+			</name>
+			<answerWrong>
+				Cluj-Napoca
+			</answerWrong>
+			<answerWrong>
+				Timișoara
+			</answerWrong>
+			<answerWrong>
+				Constanța
+			</answerWrong>
+			<answerRight>
+				Bucarest
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand poisson du monde ?
+			</name>
+			<answerWrong>
+				Le requin blanc
+			</answerWrong>
+			<answerWrong>
+				Le thon rouge
+			</answerWrong>
+			<answerWrong>
+				Le marlin
+			</answerWrong>
+			<answerRight>
+				Le requin-baleine
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a écrit "Anna Karénine" ?
+			</name>
+			<answerWrong>
+				Fiodor Dostoïevski
+			</answerWrong>
+			<answerWrong>
+				Anton Tchekhov
+			</answerWrong>
+			<answerWrong>
+				Ivan Tourgueniev
+			</answerWrong>
+			<answerRight>
+				Léon Tolstoï
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la plus haute chute d'eau du monde ?
+			</name>
+			<answerWrong>
+				Les chutes du Niagara
+			</answerWrong>
+			<answerWrong>
+				Les chutes Victoria
+			</answerWrong>
+			<answerWrong>
+				Les chutes d'Iguaçu
+			</answerWrong>
+			<answerRight>
+				Le Salto Ángel
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Combien de temps met la Terre pour tourner autour du Soleil ?
+			</name>
+			<answerWrong>
+				360 jours
+			</answerWrong>
+			<answerWrong>
+				366 jours
+			</answerWrong>
+			<answerWrong>
+				364 jours
+			</answerWrong>
+			<answerRight>
+				365 jours et 6 heures
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale de la Bulgarie ?
+			</name>
+			<answerWrong>
+				Plovdiv
+			</answerWrong>
+			<answerWrong>
+				Varna
+			</answerWrong>
+			<answerWrong>
+				Burgas
+			</answerWrong>
+			<answerRight>
+				Sofia
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "La Traviata" ?
+			</name>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Verdi
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

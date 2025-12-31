@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 10">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le plus grand animal terrestre ?
+			</name>
+			<answerWrong>
+				Le rhinocéros
+			</answerWrong>
+			<answerWrong>
+				L'hippopotame
+			</answerWrong>
+			<answerWrong>
+				Le gorille
+			</answerWrong>
+			<answerRight>
+				L'éléphant d'Afrique
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Quelle est la capitale de l'Islande ?
+			</name>
+			<answerWrong>
+				Akureyri
+			</answerWrong>
+			<answerWrong>
+				Keflavik
+			</answerWrong>
+			<answerWrong>
+				Hafnarfjörður
+			</answerWrong>
+			<answerRight>
+				Reykjavik
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Qui a inventé l'ampoule électrique ?
+			</name>
+			<answerWrong>
+				Nikola Tesla
+			</answerWrong>
+			<answerWrong>
+				Michael Faraday
+			</answerWrong>
+			<answerWrong>
+				James Watt
+			</answerWrong>
+			<answerRight>
+				Thomas Edison
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quel est le deuxième plus grand pays d'Amérique du Sud ?
+			</name>
+			<answerWrong>
+				Le Pérou
+			</answerWrong>
+			<answerWrong>
+				La Colombie
+			</answerWrong>
+			<answerWrong>
+				Le Venezuela
+			</answerWrong>
+			<answerRight>
+				L'Argentine
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de temps met la Terre pour faire une révolution complète autour du Soleil ?
+			</name>
+			<answerWrong>
+				365 jours et 6 heures
+			</answerWrong>
+			<answerWrong>
+				364 jours
+			</answerWrong>
+			<answerWrong>
+				366 jours
+			</answerWrong>
+			<answerRight>
+				365 jours et 6 heures environ
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a écrit "L'Étranger" ?
+			</name>
+			<answerWrong>
+				Jean-Paul Sartre
+			</answerWrong>
+			<answerWrong>
+				André Malraux
+			</answerWrong>
+			<answerWrong>
+				François Mauriac
+			</answerWrong>
+			<answerRight>
+				Albert Camus
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand désert d'Asie ?
+			</name>
+			<answerWrong>
+				Le désert de Thar
+			</answerWrong>
+			<answerWrong>
+				Le désert d'Arabie
+			</answerWrong>
+			<answerWrong>
+				Le désert de Taklamakan
+			</answerWrong>
+			<answerRight>
+				Le désert de Gobi
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quelle est la température d'ébullition de l'eau à pression normale ?
+			</name>
+			<answerWrong>
+				90°C
+			</answerWrong>
+			<answerWrong>
+				110°C
+			</answerWrong>
+			<answerWrong>
+				95°C
+			</answerWrong>
+			<answerRight>
+				100°C
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quel pays a pour capitale Varsovie ?
+			</name>
+			<answerWrong>
+				La République tchèque
+			</answerWrong>
+			<answerWrong>
+				La Slovaquie
+			</answerWrong>
+			<answerWrong>
+				La Hongrie
+			</answerWrong>
+			<answerRight>
+				La Pologne
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Qui a peint "Le Cri" ?
+			</name>
+			<answerWrong>
+				Paul Gauguin
+			</answerWrong>
+			<answerWrong>
+				Henri de Toulouse-Lautrec
+			</answerWrong>
+			<answerWrong>
+				Wassily Kandinsky
+			</answerWrong>
+			<answerRight>
+				Edvard Munch
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Quel est le plus grand organe interne du corps humain ?
+			</name>
+			<answerWrong>
+				Le cœur
+			</answerWrong>
+			<answerWrong>
+				Les poumons
+			</answerWrong>
+			<answerWrong>
+				L'estomac
+			</answerWrong>
+			<answerRight>
+				Le foie
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la capitale de la Norvège ?
+			</name>
+			<answerWrong>
+				Bergen
+			</answerWrong>
+			<answerWrong>
+				Trondheim
+			</answerWrong>
+			<answerWrong>
+				Stavanger
+			</answerWrong>
+			<answerRight>
+				Oslo
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Qui a découvert l'Amérique en 1492 ?
+			</name>
+			<answerWrong>
+				Vasco de Gama
+			</answerWrong>
+			<answerWrong>
+				Ferdinand Magellan
+			</answerWrong>
+			<answerWrong>
+				Amerigo Vespucci
+			</answerWrong>
+			<answerRight>
+				Christophe Colomb
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quel est le plus grand volcan actif d'Europe ?
+			</name>
+			<answerWrong>
+				Le Popocatépetl (au Mexique)
+			</answerWrong>
+			<answerWrong>
+				Le Mérapi (en Indonésie)
+			</answerWrong>
+			<answerWrong>
+				Le Sakurajima (au Japon)
+			</answerWrong>
+			<answerRight>
+				L'Etna (en Italie)
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Combien de lettres composent l'alphabet français ?
+			</name>
+			<answerWrong>
+				24
+			</answerWrong>
+			<answerWrong>
+				25
+			</answerWrong>
+			<answerWrong>
+				27
+			</answerWrong>
+			<answerRight>
+				26
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

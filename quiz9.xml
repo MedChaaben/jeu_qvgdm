@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 9">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le nom de la plus grande forêt tropicale du monde ?
+			</name>
+			<answerWrong>
+				La forêt du Congo
+			</answerWrong>
+			<answerWrong>
+				La forêt de Bornéo
+			</answerWrong>
+			<answerWrong>
+				La forêt d'Indonésie
+			</answerWrong>
+			<answerRight>
+				L'Amazonie
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Roméo et Juliette" ?
+			</name>
+			<answerWrong>
+				Charles Dickens
+			</answerWrong>
+			<answerWrong>
+				Oscar Wilde
+			</answerWrong>
+			<answerWrong>
+				Jane Austen
+			</answerWrong>
+			<answerRight>
+				William Shakespeare
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand pays d'Europe par superficie ?
+			</name>
+			<answerWrong>
+				L'Allemagne
+			</answerWrong>
+			<answerWrong>
+				La France
+			</answerWrong>
+			<answerWrong>
+				L'Espagne
+			</answerWrong>
+			<answerRight>
+				La Russie
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la vitesse du son dans l'air à température ambiante ?
+			</name>
+			<answerWrong>
+				300 m/s
+			</answerWrong>
+			<answerWrong>
+				400 m/s
+			</answerWrong>
+			<answerWrong>
+				250 m/s
+			</answerWrong>
+			<answerRight>
+				343 m/s
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le nom du premier homme à avoir marché sur la Lune ?
+			</name>
+			<answerWrong>
+				Buzz Aldrin
+			</answerWrong>
+			<answerWrong>
+				Michael Collins
+			</answerWrong>
+			<answerWrong>
+				Yuri Gagarin
+			</answerWrong>
+			<answerRight>
+				Neil Armstrong
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la capitale de l'Égypte ?
+			</name>
+			<answerWrong>
+				Alexandrie
+			</answerWrong>
+			<answerWrong>
+				Louxor
+			</answerWrong>
+			<answerWrong>
+				Gizeh
+			</answerWrong>
+			<answerRight>
+				Le Caire
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Combien de chromosomes possède un être humain ?
+			</name>
+			<answerWrong>
+				44
+			</answerWrong>
+			<answerWrong>
+				46 paires
+			</answerWrong>
+			<answerWrong>
+				48
+			</answerWrong>
+			<answerRight>
+				46
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a composé "La Neuvième Symphonie" ?
+			</name>
+			<answerWrong>
+				Mozart
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerWrong>
+				Haydn
+			</answerWrong>
+			<answerRight>
+				Beethoven
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quel est le plus grand lac d'Amérique du Nord ?
+			</name>
+			<answerWrong>
+				Le lac Huron
+			</answerWrong>
+			<answerWrong>
+				Le lac Michigan
+			</answerWrong>
+			<answerWrong>
+				Le lac Érié
+			</answerWrong>
+			<answerRight>
+				Le lac Supérieur
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quelle est la plus grande île de la Méditerranée ?
+			</name>
+			<answerWrong>
+				La Sardaigne
+			</answerWrong>
+			<answerWrong>
+				La Corse
+			</answerWrong>
+			<answerWrong>
+				Chypre
+			</answerWrong>
+			<answerRight>
+				La Sicile
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a peint "Guernica" ?
+			</name>
+			<answerWrong>
+				Salvador Dalí
+			</answerWrong>
+			<answerWrong>
+				Joan Miró
+			</answerWrong>
+			<answerWrong>
+				Henri Matisse
+			</answerWrong>
+			<answerRight>
+				Pablo Picasso
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quel est le nom scientifique de l'espèce humaine ?
+			</name>
+			<answerWrong>
+				Homo erectus
+			</answerWrong>
+			<answerWrong>
+				Homo habilis
+			</answerWrong>
+			<answerWrong>
+				Homo neanderthalensis
+			</answerWrong>
+			<answerRight>
+				Homo sapiens
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quelle est la capitale de la Grèce ?
+			</name>
+			<answerWrong>
+				Thessalonique
+			</answerWrong>
+			<answerWrong>
+				Patras
+			</answerWrong>
+			<answerWrong>
+				Rhodes
+			</answerWrong>
+			<answerRight>
+				Athènes
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Combien de temps met la Terre pour faire une rotation complète sur elle-même ?
+			</name>
+			<answerWrong>
+				23 heures
+			</answerWrong>
+			<answerWrong>
+				25 heures
+			</answerWrong>
+			<answerWrong>
+				24 heures et 30 minutes
+			</answerWrong>
+			<answerRight>
+				24 heures
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a écrit "Les Trois Mousquetaires" ?
+			</name>
+			<answerWrong>
+				Jules Verne
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerWrong>
+				Émile Zola
+			</answerWrong>
+			<answerRight>
+				Alexandre Dumas
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

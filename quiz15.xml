@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 15">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le plus grand pays d'Amérique latine après le Brésil ?
+			</name>
+			<answerWrong>
+				Le Pérou
+			</answerWrong>
+			<answerWrong>
+				La Colombie
+			</answerWrong>
+			<answerWrong>
+				Le Venezuela
+			</answerWrong>
+			<answerRight>
+				L'Argentine
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Les Confessions" ?
+			</name>
+			<answerWrong>
+				Montesquieu
+			</answerWrong>
+			<answerWrong>
+				Voltaire
+			</answerWrong>
+			<answerWrong>
+				Diderot
+			</answerWrong>
+			<answerRight>
+				Jean-Jacques Rousseau
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la planète la plus éloignée du Soleil ?
+			</name>
+			<answerWrong>
+				Uranus
+			</answerWrong>
+			<answerWrong>
+				Saturne
+			</answerWrong>
+			<answerWrong>
+				Jupiter
+			</answerWrong>
+			<answerRight>
+				Neptune
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la capitale de la Hongrie ?
+			</name>
+			<answerWrong>
+				Debrecen
+			</answerWrong>
+			<answerWrong>
+				Szeged
+			</answerWrong>
+			<answerWrong>
+				Pécs
+			</answerWrong>
+			<answerRight>
+				Budapest
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de paires de côtes possède un être humain ?
+			</name>
+			<answerWrong>
+				10
+			</answerWrong>
+			<answerWrong>
+				11
+			</answerWrong>
+			<answerWrong>
+				13
+			</answerWrong>
+			<answerRight>
+				12
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a peint "La Cène" ?
+			</name>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Raphaël
+			</answerWrong>
+			<answerWrong>
+				Donatello
+			</answerWrong>
+			<answerRight>
+				Léonard de Vinci
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand pays d'Asie du Sud ?
+			</name>
+			<answerWrong>
+				Le Pakistan
+			</answerWrong>
+			<answerWrong>
+				Le Bangladesh
+			</answerWrong>
+			<answerWrong>
+				Le Sri Lanka
+			</answerWrong>
+			<answerRight>
+				L'Inde
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a inventé le premier avion ?
+			</name>
+			<answerWrong>
+				Louis Blériot
+			</answerWrong>
+			<answerWrong>
+				Alberto Santos-Dumont
+			</answerWrong>
+			<answerWrong>
+				Clément Ader
+			</answerWrong>
+			<answerRight>
+				Les frères Wright
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quelle est la capitale de la Slovaquie ?
+			</name>
+			<answerWrong>
+				Košice
+			</answerWrong>
+			<answerWrong>
+				Prešov
+			</answerWrong>
+			<answerWrong>
+				Žilina
+			</answerWrong>
+			<answerRight>
+				Bratislava
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand prédateur terrestre ?
+			</name>
+			<answerWrong>
+				Le tigre
+			</answerWrong>
+			<answerWrong>
+				Le lion
+			</answerWrong>
+			<answerWrong>
+				Le jaguar
+			</answerWrong>
+			<answerRight>
+				L'ours polaire
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a écrit "Les Fleurs du mal" ?
+			</name>
+			<answerWrong>
+				Arthur Rimbaud
+			</answerWrong>
+			<answerWrong>
+				Paul Verlaine
+			</answerWrong>
+			<answerWrong>
+				Stéphane Mallarmé
+			</answerWrong>
+			<answerRight>
+				Charles Baudelaire
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la plus grande mer intérieure du monde ?
+			</name>
+			<answerWrong>
+				La mer Noire
+			</answerWrong>
+			<answerWrong>
+				La mer Rouge
+			</answerWrong>
+			<answerWrong>
+				La mer Baltique
+			</answerWrong>
+			<answerRight>
+				La mer Méditerranée
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Combien de temps met Mars pour faire une révolution autour du Soleil ?
+			</name>
+			<answerWrong>
+				600 jours
+			</answerWrong>
+			<answerWrong>
+				700 jours
+			</answerWrong>
+			<answerWrong>
+				800 jours
+			</answerWrong>
+			<answerRight>
+				687 jours
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale de la Slovénie ?
+			</name>
+			<answerWrong>
+				Maribor
+			</answerWrong>
+			<answerWrong>
+				Celje
+			</answerWrong>
+			<answerWrong>
+				Koper
+			</answerWrong>
+			<answerRight>
+				Ljubljana
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "La Petite Musique de nuit" ?
+			</name>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerWrong>
+				Haydn
+			</answerWrong>
+			<answerRight>
+				Mozart
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

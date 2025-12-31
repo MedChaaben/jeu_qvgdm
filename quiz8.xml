@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 8">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le nom du processus par lequel les plantes produisent leur propre nourriture ?
+			</name>
+			<answerWrong>
+				La respiration
+			</answerWrong>
+			<answerWrong>
+				La germination
+			</answerWrong>
+			<answerWrong>
+				La pollinisation
+			</answerWrong>
+			<answerRight>
+				La photosynthèse
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a inventé le téléphone ?
+			</name>
+			<answerWrong>
+				Thomas Edison
+			</answerWrong>
+			<answerWrong>
+				Nikola Tesla
+			</answerWrong>
+			<answerWrong>
+				Samuel Morse
+			</answerWrong>
+			<answerRight>
+				Alexander Graham Bell
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la capitale de la Nouvelle-Zélande ?
+			</name>
+			<answerWrong>
+				Auckland
+			</answerWrong>
+			<answerWrong>
+				Christchurch
+			</answerWrong>
+			<answerWrong>
+				Hamilton
+			</answerWrong>
+			<answerRight>
+				Wellington
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Combien de temps dure une année bissextile ?
+			</name>
+			<answerWrong>
+				365 jours
+			</answerWrong>
+			<answerWrong>
+				364 jours
+			</answerWrong>
+			<answerWrong>
+				366 jours et 6 heures
+			</answerWrong>
+			<answerRight>
+				366 jours
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le plus grand mammifère marin ?
+			</name>
+			<answerWrong>
+				Le requin blanc
+			</answerWrong>
+			<answerWrong>
+				L'orque
+			</answerWrong>
+			<answerWrong>
+				Le calmar géant
+			</answerWrong>
+			<answerRight>
+				La baleine bleue
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a écrit "1984" ?
+			</name>
+			<answerWrong>
+				Aldous Huxley
+			</answerWrong>
+			<answerWrong>
+				Ray Bradbury
+			</answerWrong>
+			<answerWrong>
+				H.G. Wells
+			</answerWrong>
+			<answerRight>
+				George Orwell
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand désert chaud du monde ?
+			</name>
+			<answerWrong>
+				Le désert d'Arabie
+			</answerWrong>
+			<answerWrong>
+				Le désert de Gobi
+			</answerWrong>
+			<answerWrong>
+				Le désert du Kalahari
+			</answerWrong>
+			<answerRight>
+				Le Sahara
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quelle est la formule chimique de l'eau ?
+			</name>
+			<answerWrong>
+				H2O2
+			</answerWrong>
+			<answerWrong>
+				CO2
+			</answerWrong>
+			<answerWrong>
+				NaCl
+			</answerWrong>
+			<answerRight>
+				H2O
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quel pays a pour capitale Bangkok ?
+			</name>
+			<answerWrong>
+				Le Vietnam
+			</answerWrong>
+			<answerWrong>
+				Le Cambodge
+			</answerWrong>
+			<answerWrong>
+				La Malaisie
+			</answerWrong>
+			<answerRight>
+				La Thaïlande
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Qui a peint "Les Nymphéas" ?
+			</name>
+			<answerWrong>
+				Paul Cézanne
+			</answerWrong>
+			<answerWrong>
+				Pierre-Auguste Renoir
+			</answerWrong>
+			<answerWrong>
+				Édouard Manet
+			</answerWrong>
+			<answerRight>
+				Claude Monet
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Combien de cœurs possède un poulpe ?
+			</name>
+			<answerWrong>
+				1
+			</answerWrong>
+			<answerWrong>
+				2
+			</answerWrong>
+			<answerWrong>
+				4
+			</answerWrong>
+			<answerRight>
+				3
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quel est le deuxième plus grand océan du monde ?
+			</name>
+			<answerWrong>
+				L'océan Indien
+			</answerWrong>
+			<answerWrong>
+				L'océan Arctique
+			</answerWrong>
+			<answerWrong>
+				L'océan Austral
+			</answerWrong>
+			<answerRight>
+				L'océan Atlantique
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Qui a découvert la pénicilline ?
+			</name>
+			<answerWrong>
+				Louis Pasteur
+			</answerWrong>
+			<answerWrong>
+				Robert Koch
+			</answerWrong>
+			<answerWrong>
+				Marie Curie
+			</answerWrong>
+			<answerRight>
+				Alexander Fleming
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale du Canada ?
+			</name>
+			<answerWrong>
+				Toronto
+			</answerWrong>
+			<answerWrong>
+				Montréal
+			</answerWrong>
+			<answerWrong>
+				Vancouver
+			</answerWrong>
+			<answerRight>
+				Ottawa
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Combien de planètes composent notre système solaire ?
+			</name>
+			<answerWrong>
+				7
+			</answerWrong>
+			<answerWrong>
+				9
+			</answerWrong>
+			<answerWrong>
+				10
+			</answerWrong>
+			<answerRight>
+				8
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 14">
+	<questions>
+		<question rank="1">
+			<name>
+				Quel est le plus grand pays d'Océanie ?
+			</name>
+			<answerWrong>
+				La Nouvelle-Zélande
+			</answerWrong>
+			<answerWrong>
+				La Papouasie-Nouvelle-Guinée
+			</answerWrong>
+			<answerWrong>
+				Les Fidji
+			</answerWrong>
+			<answerRight>
+				L'Australie
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Madame Bovary" ?
+			</name>
+			<answerWrong>
+				Émile Zola
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerWrong>
+				Stendhal
+			</answerWrong>
+			<answerRight>
+				Gustave Flaubert
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quelle est la planète la plus proche du Soleil ?
+			</name>
+			<answerWrong>
+				Vénus
+			</answerWrong>
+			<answerWrong>
+				La Terre
+			</answerWrong>
+			<answerWrong>
+				Mars
+			</answerWrong>
+			<answerRight>
+				Mercure
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la capitale de l'Ukraine ?
+			</name>
+			<answerWrong>
+				Kharkiv
+			</answerWrong>
+			<answerWrong>
+				Odessa
+			</answerWrong>
+			<answerWrong>
+				Lviv
+			</answerWrong>
+			<answerRight>
+				Kyiv
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de litres de sang contient le corps humain en moyenne ?
+			</name>
+			<answerWrong>
+				4 litres
+			</answerWrong>
+			<answerWrong>
+				6 litres
+			</answerWrong>
+			<answerWrong>
+				8 litres
+			</answerWrong>
+			<answerRight>
+				5 litres
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a peint "Les Tournesols" ?
+			</name>
+			<answerWrong>
+				Paul Cézanne
+			</answerWrong>
+			<answerWrong>
+				Paul Gauguin
+			</answerWrong>
+			<answerWrong>
+				Henri Matisse
+			</answerWrong>
+			<answerRight>
+				Vincent van Gogh
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand pays d'Amérique centrale ?
+			</name>
+			<answerWrong>
+				Le Guatemala
+			</answerWrong>
+			<answerWrong>
+				Le Honduras
+			</answerWrong>
+			<answerWrong>
+				Le Costa Rica
+			</answerWrong>
+			<answerRight>
+				Le Nicaragua
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a découvert la radioactivité ?
+			</name>
+			<answerWrong>
+				Pierre Curie
+			</answerWrong>
+			<answerWrong>
+				Henri Becquerel
+			</answerWrong>
+			<answerWrong>
+				Ernest Rutherford
+			</answerWrong>
+			<answerRight>
+				Henri Becquerel
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quelle est la capitale de la République tchèque ?
+			</name>
+			<answerWrong>
+				Brno
+			</answerWrong>
+			<answerWrong>
+				Ostrava
+			</answerWrong>
+			<answerWrong>
+				Plzeň
+			</answerWrong>
+			<answerRight>
+				Prague
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand mammifère terrestre après l'éléphant ?
+			</name>
+			<answerWrong>
+				Le rhinocéros blanc
+			</answerWrong>
+			<answerWrong>
+				Le gorille
+			</answerWrong>
+			<answerWrong>
+				L'hippopotame
+			</answerWrong>
+			<answerRight>
+				Le rhinocéros
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a écrit "Le Rouge et le Noir" ?
+			</name>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Alexandre Dumas
+			</answerWrong>
+			<answerWrong>
+				Alfred de Musset
+			</answerWrong>
+			<answerRight>
+				Stendhal
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la plus grande île de la Méditerranée après la Sicile ?
+			</name>
+			<answerWrong>
+				La Corse
+			</answerWrong>
+			<answerWrong>
+				Chypre
+			</answerWrong>
+			<answerWrong>
+				La Crète
+			</answerWrong>
+			<answerRight>
+				La Sardaigne
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Combien de temps met la Lune pour faire une révolution complète autour de la Terre ?
+			</name>
+			<answerWrong>
+				28 jours
+			</answerWrong>
+			<answerWrong>
+				29 jours
+			</answerWrong>
+			<answerWrong>
+				30 jours
+			</answerWrong>
+			<answerRight>
+				27 jours et 7 heures
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale de la Serbie ?
+			</name>
+			<answerWrong>
+				Novi Sad
+			</answerWrong>
+			<answerWrong>
+				Niš
+			</answerWrong>
+			<answerWrong>
+				Kragujevac
+			</answerWrong>
+			<answerRight>
+				Belgrade
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "Carmen" ?
+			</name>
+			<answerWrong>
+				Verdi
+			</answerWrong>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerRight>
+				Georges Bizet
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

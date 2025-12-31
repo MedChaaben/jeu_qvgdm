@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 12">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale de l'Afrique du Sud ?
+			</name>
+			<answerWrong>
+				Le Cap
+			</answerWrong>
+			<answerWrong>
+				Johannesburg
+			</answerWrong>
+			<answerWrong>
+				Durban
+			</answerWrong>
+			<answerRight>
+				Pretoria
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Les Contes de Canterbury" ?
+			</name>
+			<answerWrong>
+				William Shakespeare
+			</answerWrong>
+			<answerWrong>
+				John Milton
+			</answerWrong>
+			<answerWrong>
+				Edmund Spenser
+			</answerWrong>
+			<answerRight>
+				Geoffrey Chaucer
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand désert chaud du monde ?
+			</name>
+			<answerWrong>
+				Le désert d'Arabie
+			</answerWrong>
+			<answerWrong>
+				Le désert de Gobi
+			</answerWrong>
+			<answerWrong>
+				Le désert du Kalahari
+			</answerWrong>
+			<answerRight>
+				Le Sahara
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Quelle est la capitale de la Turquie ?
+			</name>
+			<answerWrong>
+				Istanbul
+			</answerWrong>
+			<answerWrong>
+				Izmir
+			</answerWrong>
+			<answerWrong>
+				Antalya
+			</answerWrong>
+			<answerRight>
+				Ankara
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Combien de chambres possède le cœur humain ?
+			</name>
+			<answerWrong>
+				2
+			</answerWrong>
+			<answerWrong>
+				3
+			</answerWrong>
+			<answerWrong>
+				5
+			</answerWrong>
+			<answerRight>
+				4
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a peint "La Jeune Fille à la perle" ?
+			</name>
+			<answerWrong>
+				Rembrandt
+			</answerWrong>
+			<answerWrong>
+				Rubens
+			</answerWrong>
+			<answerWrong>
+				Van Dyck
+			</answerWrong>
+			<answerRight>
+				Johannes Vermeer
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quel est le plus grand lac d'Amérique du Sud ?
+			</name>
+			<answerWrong>
+				Le lac Maracaibo
+			</answerWrong>
+			<answerWrong>
+				Le lac Poopó
+			</answerWrong>
+			<answerWrong>
+				Le lac de Mar Chiquita
+			</answerWrong>
+			<answerRight>
+				Le lac Titicaca
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Qui a découvert la gravitation universelle ?
+			</name>
+			<answerWrong>
+				Galilée
+			</answerWrong>
+			<answerWrong>
+				Kepler
+			</answerWrong>
+			<answerWrong>
+				Einstein
+			</answerWrong>
+			<answerRight>
+				Isaac Newton
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quelle est la capitale de l'Argentine ?
+			</name>
+			<answerWrong>
+				Córdoba
+			</answerWrong>
+			<answerWrong>
+				Rosario
+			</answerWrong>
+			<answerWrong>
+				Mendoza
+			</answerWrong>
+			<answerRight>
+				Buenos Aires
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand oiseau du monde ?
+			</name>
+			<answerWrong>
+				L'aigle royal
+			</answerWrong>
+			<answerWrong>
+				Le condor
+			</answerWrong>
+			<answerWrong>
+				Le pélican
+			</answerWrong>
+			<answerRight>
+				L'autruche
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a écrit "Vingt mille lieues sous les mers" ?
+			</name>
+			<answerWrong>
+				Alexandre Dumas
+			</answerWrong>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerRight>
+				Jules Verne
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la deuxième plus grande île du monde ?
+			</name>
+			<answerWrong>
+				Bornéo
+			</answerWrong>
+			<answerWrong>
+				Sumatra
+			</answerWrong>
+			<answerWrong>
+				La Grande-Bretagne
+			</answerWrong>
+			<answerRight>
+				La Nouvelle-Guinée
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Combien de temps met la lumière du Soleil pour atteindre la Terre ?
+			</name>
+			<answerWrong>
+				6 minutes
+			</answerWrong>
+			<answerWrong>
+				10 minutes
+			</answerWrong>
+			<answerWrong>
+				12 minutes
+			</answerWrong>
+			<answerRight>
+				8 minutes
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quelle est la capitale du Maroc ?
+			</name>
+			<answerWrong>
+				Casablanca
+			</answerWrong>
+			<answerWrong>
+				Marrakech
+			</answerWrong>
+			<answerWrong>
+				Fès
+			</answerWrong>
+			<answerRight>
+				Rabat
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "Le Lac des cygnes" ?
+			</name>
+			<answerWrong>
+				Mozart
+			</answerWrong>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerRight>
+				Tchaïkovski
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+
