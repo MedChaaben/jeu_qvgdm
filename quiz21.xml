@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 21">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale du Tadjikistan ?
+			</name>
+			<answerWrong>
+				Khujand
+			</answerWrong>
+			<answerWrong>
+				Kulob
+			</answerWrong>
+			<answerWrong>
+				Bokhtar
+			</answerWrong>
+			<answerRight>
+				Douchanbé
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Le Père Goriot" ?
+			</name>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Émile Zola
+			</answerWrong>
+			<answerWrong>
+				Gustave Flaubert
+			</answerWrong>
+			<answerRight>
+				Honoré de Balzac
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand pays d'Amérique du Nord par population ?
+			</name>
+			<answerWrong>
+				Le Canada
+			</answerWrong>
+			<answerWrong>
+				Le Mexique
+			</answerWrong>
+			<answerWrong>
+				Cuba
+			</answerWrong>
+			<answerRight>
+				Les États-Unis
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Qui a peint "La Leçon d'anatomie du docteur Tulp" ?
+			</name>
+			<answerWrong>
+				Rubens
+			</answerWrong>
+			<answerWrong>
+				Van Dyck
+			</answerWrong>
+			<answerWrong>
+				Vermeer
+			</answerWrong>
+			<answerRight>
+				Rembrandt
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le symbole chimique du plomb ?
+			</name>
+			<answerWrong>
+				Pb2
+			</answerWrong>
+			<answerWrong>
+				Pl
+			</answerWrong>
+			<answerWrong>
+				Pd
+			</answerWrong>
+			<answerRight>
+				Pb
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la capitale du Turkménistan ?
+			</name>
+			<answerWrong>
+				Türkmenabat
+			</answerWrong>
+			<answerWrong>
+				Daşoguz
+			</answerWrong>
+			<answerWrong>
+				Mary
+			</answerWrong>
+			<answerRight>
+				Achgabat
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Qui a composé "Le Barbier de Séville" ?
+			</name>
+			<answerWrong>
+				Verdi
+			</answerWrong>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Rossini
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quel est le plus grand pays d'Amérique du Sud par population ?
+			</name>
+			<answerWrong>
+				L'Argentine
+			</answerWrong>
+			<answerWrong>
+				La Colombie
+			</answerWrong>
+			<answerWrong>
+				Le Pérou
+			</answerWrong>
+			<answerRight>
+				Le Brésil
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Qui a écrit "La Condition humaine" ?
+			</name>
+			<answerWrong>
+				Albert Camus
+			</answerWrong>
+			<answerWrong>
+				Jean-Paul Sartre
+			</answerWrong>
+			<answerWrong>
+				Louis Aragon
+			</answerWrong>
+			<answerRight>
+				André Malraux
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Qui a peint "La Ronde de nuit" ?
+			</name>
+			<answerWrong>
+				Rubens
+			</answerWrong>
+			<answerWrong>
+				Van Dyck
+			</answerWrong>
+			<answerWrong>
+				Vermeer
+			</answerWrong>
+			<answerRight>
+				Rembrandt
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Quelle est la capitale du Kazakhstan ?
+			</name>
+			<answerWrong>
+				Almaty
+			</answerWrong>
+			<answerWrong>
+				Chymkent
+			</answerWrong>
+			<answerWrong>
+				Karaganda
+			</answerWrong>
+			<answerRight>
+				Noursoultan
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Qui a inventé le télescope ?
+			</name>
+			<answerWrong>
+				Galilée
+			</answerWrong>
+			<answerWrong>
+				Isaac Newton
+			</answerWrong>
+			<answerWrong>
+				Johannes Kepler
+			</answerWrong>
+			<answerRight>
+				Hans Lippershey
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Qui a composé "Nabucco" ?
+			</name>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Verdi
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quel est le plus grand pays d'Europe par population ?
+			</name>
+			<answerWrong>
+				L'Allemagne
+			</answerWrong>
+			<answerWrong>
+				La France
+			</answerWrong>
+			<answerWrong>
+				L'Italie
+			</answerWrong>
+			<answerRight>
+				La Russie
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a écrit "Les Mémoires d'Hadrien" ?
+			</name>
+			<answerWrong>
+				Marguerite Duras
+			</answerWrong>
+			<answerWrong>
+				Simone de Beauvoir
+			</answerWrong>
+			<answerWrong>
+				Colette
+			</answerWrong>
+			<answerRight>
+				Marguerite Yourcenar
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 17">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale du Danemark ?
+			</name>
+			<answerWrong>
+				Aarhus
+			</answerWrong>
+			<answerWrong>
+				Odense
+			</answerWrong>
+			<answerWrong>
+				Aalborg
+			</answerWrong>
+			<answerRight>
+				Copenhague
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Germinal" ?
+			</name>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Gustave Flaubert
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerRight>
+				Émile Zola
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le symbole chimique du fer ?
+			</name>
+			<answerWrong>
+				Fe2
+			</answerWrong>
+			<answerWrong>
+				Fr
+			</answerWrong>
+			<answerWrong>
+				F
+			</answerWrong>
+			<answerRight>
+				Fe
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Dans quel pays se trouve la ville de Dubaï ?
+			</name>
+			<answerWrong>
+				L'Arabie saoudite
+			</answerWrong>
+			<answerWrong>
+				Le Koweït
+			</answerWrong>
+			<answerWrong>
+				Le Qatar
+			</answerWrong>
+			<answerRight>
+				Les Émirats arabes unis
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Qui a peint "Les Ménines" ?
+			</name>
+			<answerWrong>
+				Francisco Goya
+			</answerWrong>
+			<answerWrong>
+				El Greco
+			</answerWrong>
+			<answerWrong>
+				Murillo
+			</answerWrong>
+			<answerRight>
+				Diego Velázquez
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la plus haute montagne d'Europe ?
+			</name>
+			<answerWrong>
+				Le Mont Blanc
+			</answerWrong>
+			<answerWrong>
+				Le Cervin
+			</answerWrong>
+			<answerWrong>
+				Le Mont Elbrouz
+			</answerWrong>
+			<answerRight>
+				Le Mont Elbrouz
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Qui a inventé la dynamite ?
+			</name>
+			<answerWrong>
+				Thomas Edison
+			</answerWrong>
+			<answerWrong>
+				Marie Curie
+			</answerWrong>
+			<answerWrong>
+				Louis Pasteur
+			</answerWrong>
+			<answerRight>
+				Alfred Nobel
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Quelle est la capitale de la Biélorussie ?
+			</name>
+			<answerWrong>
+				Gomel
+			</answerWrong>
+			<answerWrong>
+				Vitebsk
+			</answerWrong>
+			<answerWrong>
+				Mogilev
+			</answerWrong>
+			<answerRight>
+				Minsk
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Quel est le plus grand lac d'Asie ?
+			</name>
+			<answerWrong>
+				Le lac Baïkal
+			</answerWrong>
+			<answerWrong>
+				Le lac Balkhach
+			</answerWrong>
+			<answerWrong>
+				Le lac Issyk-Koul
+			</answerWrong>
+			<answerRight>
+				La mer Caspienne
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Qui a composé "La Cinquième Symphonie" ?
+			</name>
+			<answerWrong>
+				Mozart
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerWrong>
+				Haydn
+			</answerWrong>
+			<answerRight>
+				Beethoven
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Combien de pattes possède une araignée ?
+			</name>
+			<answerWrong>
+				6
+			</answerWrong>
+			<answerWrong>
+				10
+			</answerWrong>
+			<answerWrong>
+				12
+			</answerWrong>
+			<answerRight>
+				8
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la capitale de la Moldavie ?
+			</name>
+			<answerWrong>
+				Tiraspol
+			</answerWrong>
+			<answerWrong>
+				Bălți
+			</answerWrong>
+			<answerWrong>
+				Bender
+			</answerWrong>
+			<answerRight>
+				Chișinău
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Qui a écrit "L'Assommoir" ?
+			</name>
+			<answerWrong>
+				Victor Hugo
+			</answerWrong>
+			<answerWrong>
+				Gustave Flaubert
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerRight>
+				Émile Zola
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Quel est le plus grand pays d'Amérique centrale par population ?
+			</name>
+			<answerWrong>
+				Le Honduras
+			</answerWrong>
+			<answerWrong>
+				Le Costa Rica
+			</answerWrong>
+			<answerWrong>
+				Le Salvador
+			</answerWrong>
+			<answerRight>
+				Le Guatemala
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a peint "Le Déjeuner sur l'herbe" ?
+			</name>
+			<answerWrong>
+				Claude Monet
+			</answerWrong>
+			<answerWrong>
+				Pierre-Auguste Renoir
+			</answerWrong>
+			<answerWrong>
+				Paul Cézanne
+			</answerWrong>
+			<answerRight>
+				Édouard Manet
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

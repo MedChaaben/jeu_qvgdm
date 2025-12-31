@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 18">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale de la Bosnie-Herzégovine ?
+			</name>
+			<answerWrong>
+				Banja Luka
+			</answerWrong>
+			<answerWrong>
+				Tuzla
+			</answerWrong>
+			<answerWrong>
+				Mostar
+			</answerWrong>
+			<answerRight>
+				Sarajevo
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Candide" ?
+			</name>
+			<answerWrong>
+				Jean-Jacques Rousseau
+			</answerWrong>
+			<answerWrong>
+				Denis Diderot
+			</answerWrong>
+			<answerWrong>
+				Montesquieu
+			</answerWrong>
+			<answerRight>
+				Voltaire
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand pays d'Afrique par population ?
+			</name>
+			<answerWrong>
+				L'Égypte
+			</answerWrong>
+			<answerWrong>
+				L'Afrique du Sud
+			</answerWrong>
+			<answerWrong>
+				Le Kenya
+			</answerWrong>
+			<answerRight>
+				Le Nigeria
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Qui a peint "Les Époux Arnolfini" ?
+			</name>
+			<answerWrong>
+				Rembrandt
+			</answerWrong>
+			<answerWrong>
+				Rubens
+			</answerWrong>
+			<answerWrong>
+				Van Eyck
+			</answerWrong>
+			<answerRight>
+				Jan van Eyck
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le plus long fleuve d'Asie ?
+			</name>
+			<answerWrong>
+				L'Amour
+			</answerWrong>
+			<answerWrong>
+				Le Mékong
+			</answerWrong>
+			<answerWrong>
+				Le Gange
+			</answerWrong>
+			<answerRight>
+				Le Yangtsé
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Qui a inventé le cinématographe ?
+			</name>
+			<answerWrong>
+				Georges Méliès
+			</answerWrong>
+			<answerWrong>
+				Thomas Edison
+			</answerWrong>
+			<answerWrong>
+				Eadweard Muybridge
+			</answerWrong>
+			<answerRight>
+				Les frères Lumière
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Quelle est la capitale de la Macédoine du Nord ?
+			</name>
+			<answerWrong>
+				Bitola
+			</answerWrong>
+			<answerWrong>
+				Kumanovo
+			</answerWrong>
+			<answerWrong>
+				Prilep
+			</answerWrong>
+			<answerRight>
+				Skopje
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Combien de temps met Saturne pour faire une révolution autour du Soleil ?
+			</name>
+			<answerWrong>
+				25 ans
+			</answerWrong>
+			<answerWrong>
+				27 ans
+			</answerWrong>
+			<answerWrong>
+				30 ans
+			</answerWrong>
+			<answerRight>
+				29 ans
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Qui a écrit "Les Liaisons dangereuses" ?
+			</name>
+			<answerWrong>
+				Marquis de Sade
+			</answerWrong>
+			<answerWrong>
+				Jean-Jacques Rousseau
+			</answerWrong>
+			<answerWrong>
+				Denis Diderot
+			</answerWrong>
+			<answerRight>
+				Pierre Choderlos de Laclos
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand pays d'Asie centrale ?
+			</name>
+			<answerWrong>
+				L'Ouzbékistan
+			</answerWrong>
+			<answerWrong>
+				Le Turkménistan
+			</answerWrong>
+			<answerWrong>
+				Le Tadjikistan
+			</answerWrong>
+			<answerRight>
+				Le Kazakhstan
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a composé "La Walkyrie" ?
+			</name>
+			<answerWrong>
+				Mozart
+			</answerWrong>
+			<answerWrong>
+				Beethoven
+			</answerWrong>
+			<answerWrong>
+				Bach
+			</answerWrong>
+			<answerRight>
+				Richard Wagner
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la température de fusion de la glace ?
+			</name>
+			<answerWrong>
+				-1°C
+			</answerWrong>
+			<answerWrong>
+				1°C
+			</answerWrong>
+			<answerWrong>
+				-2°C
+			</answerWrong>
+			<answerRight>
+				0°C
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quelle est la capitale de l'Albanie ?
+			</name>
+			<answerWrong>
+				Durrës
+			</answerWrong>
+			<answerWrong>
+				Vlorë
+			</answerWrong>
+			<answerWrong>
+				Shkodër
+			</answerWrong>
+			<answerRight>
+				Tirana
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Qui a peint "La Vénus de Milo" ?
+			</name>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Donatello
+			</answerWrong>
+			<answerWrong>
+				Rodin
+			</answerWrong>
+			<answerRight>
+				Alexandros d'Antioche (sculpteur grec antique)
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Quel est le plus grand pays d'Afrique de l'Ouest ?
+			</name>
+			<answerWrong>
+				Le Sénégal
+			</answerWrong>
+			<answerWrong>
+				La Côte d'Ivoire
+			</answerWrong>
+			<answerWrong>
+				Le Mali
+			</answerWrong>
+			<answerRight>
+				Le Niger
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

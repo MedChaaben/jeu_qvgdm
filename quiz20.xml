@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 20">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale de l'Azerbaïdjan ?
+			</name>
+			<answerWrong>
+				Ganja
+			</answerWrong>
+			<answerWrong>
+				Sumqayit
+			</answerWrong>
+			<answerWrong>
+				Mingachevir
+			</answerWrong>
+			<answerRight>
+				Bakou
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Les Faux-monnayeurs" ?
+			</name>
+			<answerWrong>
+				Marcel Proust
+			</answerWrong>
+			<answerWrong>
+				Albert Camus
+			</answerWrong>
+			<answerWrong>
+				Jean-Paul Sartre
+			</answerWrong>
+			<answerRight>
+				André Gide
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand pays d'Afrique australe ?
+			</name>
+			<answerWrong>
+				L'Angola
+			</answerWrong>
+			<answerWrong>
+				Le Mozambique
+			</answerWrong>
+			<answerWrong>
+				Le Zimbabwe
+			</answerWrong>
+			<answerRight>
+				L'Afrique du Sud
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Qui a peint "Les Noces de Cana" ?
+			</name>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Raphaël
+			</answerWrong>
+			<answerWrong>
+				Donatello
+			</answerWrong>
+			<answerRight>
+				Paul Véronèse
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le symbole chimique du cuivre ?
+			</name>
+			<answerWrong>
+				Cu2
+			</answerWrong>
+			<answerWrong>
+				Co
+			</answerWrong>
+			<answerWrong>
+				Cr
+			</answerWrong>
+			<answerRight>
+				Cu
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la capitale du Kirghizistan ?
+			</name>
+			<answerWrong>
+				Och
+			</answerWrong>
+			<answerWrong>
+				Jalal-Abad
+			</answerWrong>
+			<answerWrong>
+				Karakol
+			</answerWrong>
+			<answerRight>
+				Bichkek
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Qui a composé "Rigoletto" ?
+			</name>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Verdi
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Combien de temps met Neptune pour faire une révolution autour du Soleil ?
+			</name>
+			<answerWrong>
+				160 ans
+			</answerWrong>
+			<answerWrong>
+				162 ans
+			</answerWrong>
+			<answerWrong>
+				166 ans
+			</answerWrong>
+			<answerRight>
+				165 ans
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Qui a écrit "À la recherche du temps perdu" ?
+			</name>
+			<answerWrong>
+				André Gide
+			</answerWrong>
+			<answerWrong>
+				Albert Camus
+			</answerWrong>
+			<answerWrong>
+				Jean-Paul Sartre
+			</answerWrong>
+			<answerRight>
+				Marcel Proust
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand pays d'Asie du Sud par population ?
+			</name>
+			<answerWrong>
+				Le Pakistan
+			</answerWrong>
+			<answerWrong>
+				Le Bangladesh
+			</answerWrong>
+			<answerWrong>
+				Le Sri Lanka
+			</answerWrong>
+			<answerRight>
+				L'Inde
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a peint "La Vénus au miroir" ?
+			</name>
+			<answerWrong>
+				Raphaël
+			</answerWrong>
+			<answerWrong>
+				Michel-Ange
+			</answerWrong>
+			<answerWrong>
+				Botticelli
+			</answerWrong>
+			<answerRight>
+				Diego Velázquez
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la capitale de l'Ouzbékistan ?
+			</name>
+			<answerWrong>
+				Samarcande
+			</answerWrong>
+			<answerWrong>
+				Boukhara
+			</answerWrong>
+			<answerWrong>
+				Andijan
+			</answerWrong>
+			<answerRight>
+				Tachkent
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quel est le plus grand pays d'Asie du Sud-Est par population ?
+			</name>
+			<answerWrong>
+				La Thaïlande
+			</answerWrong>
+			<answerWrong>
+				Le Vietnam
+			</answerWrong>
+			<answerWrong>
+				Les Philippines
+			</answerWrong>
+			<answerRight>
+				L'Indonésie
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Qui a inventé le microscope ?
+			</name>
+			<answerWrong>
+				Louis Pasteur
+			</answerWrong>
+			<answerWrong>
+				Robert Hooke
+			</answerWrong>
+			<answerWrong>
+				Antonie van Leeuwenhoek
+			</answerWrong>
+			<answerRight>
+				Zacharias Janssen
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "Aida" ?
+			</name>
+			<answerWrong>
+				Puccini
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Verdi
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+

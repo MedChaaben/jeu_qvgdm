@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz name="quiz 19">
+	<questions>
+		<question rank="1">
+			<name>
+				Quelle est la capitale du Monténégro ?
+			</name>
+			<answerWrong>
+				Nikšić
+			</answerWrong>
+			<answerWrong>
+				Pljevlja
+			</answerWrong>
+			<answerWrong>
+				Bijelo Polje
+			</answerWrong>
+			<answerRight>
+				Podgorica
+			</answerRight>
+		</question>
+		<question rank="2">
+			<name>
+				Qui a écrit "Bel-Ami" ?
+			</name>
+			<answerWrong>
+				Émile Zola
+			</answerWrong>
+			<answerWrong>
+				Gustave Flaubert
+			</answerWrong>
+			<answerWrong>
+				Honoré de Balzac
+			</answerWrong>
+			<answerRight>
+				Guy de Maupassant
+			</answerRight>
+		</question>
+		<question rank="3">
+			<name>
+				Quel est le plus grand pays d'Afrique de l'Est ?
+			</name>
+			<answerWrong>
+				Le Kenya
+			</answerWrong>
+			<answerWrong>
+				La Tanzanie
+			</answerWrong>
+			<answerWrong>
+				L'Ouganda
+			</answerWrong>
+			<answerRight>
+				Le Soudan
+			</answerRight>
+		</question>
+		<question rank="4">
+			<name>
+				Qui a peint "Le Radeau de la Méduse" ?
+			</name>
+			<answerWrong>
+				Eugène Delacroix
+			</answerWrong>
+			<answerWrong>
+				Jacques-Louis David
+			</answerWrong>
+			<answerWrong>
+				Jean-Auguste-Dominique Ingres
+			</answerWrong>
+			<answerRight>
+				Théodore Géricault
+			</answerRight>
+		</question>
+		<question rank="5">
+			<name>
+				Quel est le symbole chimique de l'argent ?
+			</name>
+			<answerWrong>
+				Ag2
+			</answerWrong>
+			<answerWrong>
+				Ar
+			</answerWrong>
+			<answerWrong>
+				Al
+			</answerWrong>
+			<answerRight>
+				Ag
+			</answerRight>
+		</question>
+		<question rank="6">
+			<name>
+				Quelle est la capitale de la Géorgie ?
+			</name>
+			<answerWrong>
+				Batumi
+			</answerWrong>
+			<answerWrong>
+				Koutaïssi
+			</answerWrong>
+			<answerWrong>
+				Roustavi
+			</answerWrong>
+			<answerRight>
+				Tbilissi
+			</answerRight>
+		</question>
+		<question rank="7">
+			<name>
+				Qui a composé "La Tosca" ?
+			</name>
+			<answerWrong>
+				Verdi
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Puccini
+			</answerRight>
+		</question>
+		<question rank="8">
+			<name>
+				Combien de temps met Uranus pour faire une révolution autour du Soleil ?
+			</name>
+			<answerWrong>
+				80 ans
+			</answerWrong>
+			<answerWrong>
+				82 ans
+			</answerWrong>
+			<answerWrong>
+				86 ans
+			</answerWrong>
+			<answerRight>
+				84 ans
+			</answerRight>
+		</question>
+		<question rank="9">
+			<name>
+				Qui a écrit "Les Châtiments" ?
+			</name>
+			<answerWrong>
+				Alfred de Musset
+			</answerWrong>
+			<answerWrong>
+				Alphonse de Lamartine
+			</answerWrong>
+			<answerWrong>
+				Charles Baudelaire
+			</answerWrong>
+			<answerRight>
+				Victor Hugo
+			</answerRight>
+		</question>
+		<question rank="10">
+			<name>
+				Quel est le plus grand pays d'Afrique centrale ?
+			</name>
+			<answerWrong>
+				Le Cameroun
+			</answerWrong>
+			<answerWrong>
+				Le Tchad
+			</answerWrong>
+			<answerWrong>
+				La République centrafricaine
+			</answerWrong>
+			<answerRight>
+				La République démocratique du Congo
+			</answerRight>
+		</question>
+		<question rank="11">
+			<name>
+				Qui a peint "Les Baigneuses" ?
+			</name>
+			<answerWrong>
+				Claude Monet
+			</answerWrong>
+			<answerWrong>
+				Pierre-Auguste Renoir
+			</answerWrong>
+			<answerWrong>
+				Édouard Manet
+			</answerWrong>
+			<answerRight>
+				Paul Cézanne
+			</answerRight>
+		</question>
+		<question rank="12">
+			<name>
+				Quelle est la capitale de l'Arménie ?
+			</name>
+			<answerWrong>
+				Gyumri
+			</answerWrong>
+			<answerWrong>
+				Vanadzor
+			</answerWrong>
+			<answerWrong>
+				Kapan
+			</answerWrong>
+			<answerRight>
+				Erevan
+			</answerRight>
+		</question>
+		<question rank="13">
+			<name>
+				Quel est le plus grand pays d'Asie occidentale ?
+			</name>
+			<answerWrong>
+				L'Iran
+			</answerWrong>
+			<answerWrong>
+				L'Irak
+			</answerWrong>
+			<answerWrong>
+				La Turquie
+			</answerWrong>
+			<answerRight>
+				L'Arabie saoudite
+			</answerRight>
+		</question>
+		<question rank="14">
+			<name>
+				Qui a inventé le paratonnerre ?
+			</name>
+			<answerWrong>
+				Thomas Edison
+			</answerWrong>
+			<answerWrong>
+				Alessandro Volta
+			</answerWrong>
+			<answerWrong>
+				André-Marie Ampère
+			</answerWrong>
+			<answerRight>
+				Benjamin Franklin
+			</answerRight>
+		</question>
+		<question rank="15">
+			<name>
+				Qui a composé "La Bohème" ?
+			</name>
+			<answerWrong>
+				Verdi
+			</answerWrong>
+			<answerWrong>
+				Rossini
+			</answerWrong>
+			<answerWrong>
+				Donizetti
+			</answerWrong>
+			<answerRight>
+				Puccini
+			</answerRight>
+		</question>
+	</questions>
+</quiz>
+
