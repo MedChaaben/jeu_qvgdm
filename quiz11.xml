@@ -37,10 +37,10 @@
 		</question>
 		<question rank="3">
 			<name>
-				Quelle est la planète la plus proche du Soleil ?
+				Quelle est la deuxième planète la plus proche du Soleil ?
 			</name>
 			<answerWrong>
-				Vénus
+				Mercure
 			</answerWrong>
 			<answerWrong>
 				La Terre
@@ -49,7 +49,7 @@
 				Mars
 			</answerWrong>
 			<answerRight>
-				Mercure
+				Vénus
 			</answerRight>
 		</question>
 		<question rank="4">
@@ -88,19 +88,19 @@
 		</question>
 		<question rank="6">
 			<name>
-				Quelle est la capitale de la Finlande ?
+				Quelle est la capitale de la Suède ?
 			</name>
 			<answerWrong>
-				Tampere
+				Göteborg
 			</answerWrong>
 			<answerWrong>
-				Turku
+				Malmö
 			</answerWrong>
 			<answerWrong>
-				Oulu
+				Uppsala
 			</answerWrong>
 			<answerRight>
-				Helsinki
+				Stockholm
 			</answerRight>
 		</question>
 		<question rank="7">
@@ -156,19 +156,19 @@
 		</question>
 		<question rank="10">
 			<name>
-				Quelle est la capitale de la Suède ?
+				Quelle est la capitale de la Finlande ?
 			</name>
 			<answerWrong>
-				Göteborg
+				Tampere
 			</answerWrong>
 			<answerWrong>
-				Malmö
+				Turku
 			</answerWrong>
 			<answerWrong>
-				Uppsala
+				Oulu
 			</answerWrong>
 			<answerRight>
-				Stockholm
+				Helsinki
 			</answerRight>
 		</question>
 		<question rank="11">

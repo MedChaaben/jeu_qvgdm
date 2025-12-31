@@ -105,19 +105,19 @@
 		</question>
 		<question rank="7">
 			<name>
-				Quel est le plus grand désert chaud du monde ?
+				Quel est le deuxième plus grand désert chaud du monde ?
 			</name>
-			<answerWrong>
-				Le désert d'Arabie
-			</answerWrong>
 			<answerWrong>
 				Le désert de Gobi
 			</answerWrong>
 			<answerWrong>
 				Le désert du Kalahari
 			</answerWrong>
+			<answerWrong>
+				Le désert de Thar
+			</answerWrong>
 			<answerRight>
-				Le Sahara
+				Le désert d'Arabie
 			</answerRight>
 		</question>
 		<question rank="8">

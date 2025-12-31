@@ -190,19 +190,19 @@
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la capitale de la Norvège ?
+				Quelle est la capitale de la Belgique ?
 			</name>
 			<answerWrong>
-				Bergen
+				Anvers
 			</answerWrong>
 			<answerWrong>
-				Trondheim
+				Gand
 			</answerWrong>
 			<answerWrong>
-				Stavanger
+				Bruges
 			</answerWrong>
 			<answerRight>
-				Oslo
+				Bruxelles
 			</answerRight>
 		</question>
 		<question rank="13">

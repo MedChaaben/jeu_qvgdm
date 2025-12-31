@@ -54,19 +54,19 @@
 		</question>
 		<question rank="4">
 			<name>
-				Quel est le plus grand pays d'Amérique centrale par superficie ?
+				Quel est le deuxième plus grand pays d'Amérique centrale par superficie ?
 			</name>
-			<answerWrong>
-				Le Honduras
-			</answerWrong>
 			<answerWrong>
 				Le Costa Rica
 			</answerWrong>
 			<answerWrong>
 				Le Salvador
 			</answerWrong>
+			<answerWrong>
+				Le Panama
+			</answerWrong>
 			<answerRight>
-				Le Nicaragua
+				Le Honduras
 			</answerRight>
 		</question>
 		<question rank="5">
