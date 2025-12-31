@@ -20,19 +20,19 @@
 		</question>
 		<question rank="2">
 			<name>
-				Qui a écrit "Les Faux-monnayeurs" ?
+				ما هي السورة التي تسمى "أم الكتاب"؟
 			</name>
 			<answerWrong>
-				Marcel Proust
+				سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				Albert Camus
+				سورة آل عمران
 			</answerWrong>
 			<answerWrong>
-				Jean-Paul Sartre
+				سورة النساء
 			</answerWrong>
 			<answerRight>
-				André Gide
+				سورة الفاتحة
 			</answerRight>
 		</question>
 		<question rank="3">
@@ -54,36 +54,36 @@
 		</question>
 		<question rank="4">
 			<name>
-				Qui a peint "Les Noces de Cana" ?
+				Quel est le deuxième plus grand pays d'Océanie par superficie ?
 			</name>
 			<answerWrong>
-				Michel-Ange
+				Les Fidji
 			</answerWrong>
 			<answerWrong>
-				Raphaël
+				La Papouasie-Nouvelle-Guinée
 			</answerWrong>
 			<answerWrong>
-				Donatello
+				Les Samoa
 			</answerWrong>
 			<answerRight>
-				Paul Véronèse
+				La Nouvelle-Zélande
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				Quel est le symbole chimique du cuivre ?
+				من هو النبي الذي أرسل إلى قوم ثمود؟
 			</name>
 			<answerWrong>
-				Cu2
+				نوح عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Co
+				هود عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Cr
+				شعيب عليه السلام
 			</answerWrong>
 			<answerRight>
-				Cu
+				صالح عليه السلام
 			</answerRight>
 		</question>
 		<question rank="6">
@@ -139,19 +139,19 @@
 		</question>
 		<question rank="9">
 			<name>
-				Qui a écrit "À la recherche du temps perdu" ?
+				Quelle est la capitale de la Jordanie ?
 			</name>
 			<answerWrong>
-				André Gide
+				Irbid
 			</answerWrong>
 			<answerWrong>
-				Albert Camus
+				Zarqa
 			</answerWrong>
 			<answerWrong>
-				Jean-Paul Sartre
+				Aqaba
 			</answerWrong>
 			<answerRight>
-				Marcel Proust
+				Amman
 			</answerRight>
 		</question>
 		<question rank="10">
@@ -173,19 +173,19 @@
 		</question>
 		<question rank="11">
 			<name>
-				Qui a peint "La Vénus au miroir" ?
+				كم عدد أركان الإسلام؟
 			</name>
 			<answerWrong>
-				Raphaël
+				4
 			</answerWrong>
 			<answerWrong>
-				Michel-Ange
+				6
 			</answerWrong>
 			<answerWrong>
-				Botticelli
+				7
 			</answerWrong>
 			<answerRight>
-				Diego Velázquez
+				5
 			</answerRight>
 		</question>
 		<question rank="12">

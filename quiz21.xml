@@ -20,19 +20,19 @@
 		</question>
 		<question rank="2">
 			<name>
-				Qui a écrit "Le Père Goriot" ?
+				ما هي السورة التي تسمى "سورة التوحيد"؟
 			</name>
 			<answerWrong>
-				Victor Hugo
+				سورة الفاتحة
 			</answerWrong>
 			<answerWrong>
-				Émile Zola
+				سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				Gustave Flaubert
+				سورة النصر
 			</answerWrong>
 			<answerRight>
-				Honoré de Balzac
+				سورة الإخلاص
 			</answerRight>
 		</question>
 		<question rank="3">
@@ -54,36 +54,36 @@
 		</question>
 		<question rank="4">
 			<name>
-				Qui a peint "La Leçon d'anatomie du docteur Tulp" ?
+				Quel est le deuxième plus grand pays d'Asie par superficie ?
 			</name>
 			<answerWrong>
-				Rubens
+				L'Arabie saoudite
 			</answerWrong>
 			<answerWrong>
-				Van Dyck
+				L'Indonésie
 			</answerWrong>
 			<answerWrong>
-				Vermeer
+				L'Iran
 			</answerWrong>
 			<answerRight>
-				Rembrandt
+				L'Inde
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				Quel est le symbole chimique du plomb ?
+				من هو الصحابي الذي كان يُلقب بـ "سيف الله المسلول"؟
 			</name>
 			<answerWrong>
-				Pb2
+				عمرو بن العاص
 			</answerWrong>
 			<answerWrong>
-				Pl
+				سعد بن أبي وقاص
 			</answerWrong>
 			<answerWrong>
-				Pd
+				عبد الله بن الزبير
 			</answerWrong>
 			<answerRight>
-				Pb
+				خالد بن الوليد
 			</answerRight>
 		</question>
 		<question rank="6">
@@ -139,36 +139,36 @@
 		</question>
 		<question rank="9">
 			<name>
-				Qui a écrit "La Condition humaine" ?
+				Quelle est la capitale du Liban ?
 			</name>
 			<answerWrong>
-				Albert Camus
+				Tripoli
 			</answerWrong>
 			<answerWrong>
-				Jean-Paul Sartre
+				Sidon
 			</answerWrong>
 			<answerWrong>
-				Louis Aragon
+				Tyr
 			</answerWrong>
 			<answerRight>
-				André Malraux
+				Beyrouth
 			</answerRight>
 		</question>
 		<question rank="10">
 			<name>
-				Qui a peint "La Ronde de nuit" ?
+				Quel est le deuxième plus grand pays d'Afrique par superficie ?
 			</name>
 			<answerWrong>
-				Rubens
+				Le Congo
 			</answerWrong>
 			<answerWrong>
-				Van Dyck
+				L'Angola
 			</answerWrong>
 			<answerWrong>
-				Vermeer
+				Le Tchad
 			</answerWrong>
 			<answerRight>
-				Rembrandt
+				La République démocratique du Congo
 			</answerRight>
 		</question>
 		<question rank="11">
@@ -190,19 +190,19 @@
 		</question>
 		<question rank="12">
 			<name>
-				Qui a inventé le télescope ?
+				ما هي السورة التي تبدأ بـ "قل هو الله أحد"؟
 			</name>
 			<answerWrong>
-				Galilée
+				سورة الفلق
 			</answerWrong>
 			<answerWrong>
-				Isaac Newton
+				سورة النصر
 			</answerWrong>
 			<answerWrong>
-				Johannes Kepler
+				سورة الكوثر
 			</answerWrong>
 			<answerRight>
-				Hans Lippershey
+				سورة الإخلاص
 			</answerRight>
 		</question>
 		<question rank="13">
@@ -241,19 +241,19 @@
 		</question>
 		<question rank="15">
 			<name>
-				Qui a écrit "Les Mémoires d'Hadrien" ?
+				Combien de satellites naturels possède la planète Jupiter ?
 			</name>
 			<answerWrong>
-				Marguerite Duras
+				50
 			</answerWrong>
 			<answerWrong>
-				Simone de Beauvoir
+				70
 			</answerWrong>
 			<answerWrong>
-				Colette
+				90
 			</answerWrong>
 			<answerRight>
-				Marguerite Yourcenar
+				Plus de 80
 			</answerRight>
 		</question>
 	</questions>

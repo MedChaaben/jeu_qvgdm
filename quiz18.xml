@@ -20,19 +20,19 @@
 		</question>
 		<question rank="2">
 			<name>
-				Qui a écrit "Candide" ?
+				ما هو عدد سور القرآن الكريم؟
 			</name>
 			<answerWrong>
-				Jean-Jacques Rousseau
+				112
 			</answerWrong>
 			<answerWrong>
-				Denis Diderot
+				115
 			</answerWrong>
 			<answerWrong>
-				Montesquieu
+				118
 			</answerWrong>
 			<answerRight>
-				Voltaire
+				114
 			</answerRight>
 		</question>
 		<question rank="3">
@@ -54,36 +54,36 @@
 		</question>
 		<question rank="4">
 			<name>
-				Qui a peint "Les Époux Arnolfini" ?
+				Quel est le plus grand pays d'Amérique centrale par superficie ?
 			</name>
 			<answerWrong>
-				Rembrandt
+				Le Honduras
 			</answerWrong>
 			<answerWrong>
-				Rubens
+				Le Costa Rica
 			</answerWrong>
 			<answerWrong>
-				Van Eyck
+				Le Salvador
 			</answerWrong>
 			<answerRight>
-				Jan van Eyck
+				Le Nicaragua
 			</answerRight>
 		</question>
 		<question rank="5">
 			<name>
-				Quel est le plus long fleuve d'Asie ?
+				من هو النبي الذي أرسل إلى قوم عاد؟
 			</name>
 			<answerWrong>
-				L'Amour
+				نوح عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Le Mékong
+				صالح عليه السلام
 			</answerWrong>
 			<answerWrong>
-				Le Gange
+				شعيب عليه السلام
 			</answerWrong>
 			<answerRight>
-				Le Yangtsé
+				هود عليه السلام
 			</answerRight>
 		</question>
 		<question rank="6">
@@ -139,19 +139,19 @@
 		</question>
 		<question rank="9">
 			<name>
-				Qui a écrit "Les Liaisons dangereuses" ?
+				Quelle est la capitale de la Syrie ?
 			</name>
 			<answerWrong>
-				Marquis de Sade
+				Alep
 			</answerWrong>
 			<answerWrong>
-				Jean-Jacques Rousseau
+				Homs
 			</answerWrong>
 			<answerWrong>
-				Denis Diderot
+				Lattaquié
 			</answerWrong>
 			<answerRight>
-				Pierre Choderlos de Laclos
+				Damas
 			</answerRight>
 		</question>
 		<question rank="10">
@@ -190,19 +190,19 @@
 		</question>
 		<question rank="12">
 			<name>
-				Quelle est la température de fusion de la glace ?
+				ما هي السورة التي تبدأ بـ "إنا أنزلناه في ليلة القدر"؟
 			</name>
 			<answerWrong>
-				-1°C
+				سورة الفلق
 			</answerWrong>
 			<answerWrong>
-				1°C
+				سورة النصر
 			</answerWrong>
 			<answerWrong>
-				-2°C
+				سورة الكوثر
 			</answerWrong>
 			<answerRight>
-				0°C
+				سورة القدر
 			</answerRight>
 		</question>
 		<question rank="13">
@@ -224,19 +224,19 @@
 		</question>
 		<question rank="14">
 			<name>
-				Qui a peint "La Vénus de Milo" ?
+				Quel est le plus grand pays d'Europe de l'Ouest par superficie ?
 			</name>
 			<answerWrong>
-				Michel-Ange
+				L'Allemagne
 			</answerWrong>
 			<answerWrong>
-				Donatello
+				L'Italie
 			</answerWrong>
 			<answerWrong>
-				Rodin
+				L'Espagne
 			</answerWrong>
 			<answerRight>
-				Alexandros d'Antioche (sculpteur grec antique)
+				La France
 			</answerRight>
 		</question>
 		<question rank="15">

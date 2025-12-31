@@ -20,19 +20,19 @@
 		</question>
 		<question rank="2">
 			<name>
-				Qui a écrit "Germinal" ?
+				ما هي السورة التي تسمى "عروس القرآن"؟
 			</name>
 			<answerWrong>
-				Victor Hugo
+				سورة البقرة
 			</answerWrong>
 			<answerWrong>
-				Gustave Flaubert
+				سورة الفاتحة
 			</answerWrong>
 			<answerWrong>
-				Honoré de Balzac
+				سورة يس
 			</answerWrong>
 			<answerRight>
-				Émile Zola
+				سورة الرحمن
 			</answerRight>
 		</question>
 		<question rank="3">
@@ -71,36 +71,36 @@
 		</question>
 		<question rank="5">
 			<name>
-				Qui a peint "Les Ménines" ?
+				Quel est le plus grand pays d'Amérique centrale par superficie ?
 			</name>
 			<answerWrong>
-				Francisco Goya
+				Le Honduras
 			</answerWrong>
 			<answerWrong>
-				El Greco
+				Le Costa Rica
 			</answerWrong>
 			<answerWrong>
-				Murillo
+				Le Salvador
 			</answerWrong>
 			<answerRight>
-				Diego Velázquez
+				Le Nicaragua
 			</answerRight>
 		</question>
 		<question rank="6">
 			<name>
-				Quelle est la plus haute montagne d'Europe ?
+				من هو الصحابي الذي كان يُلقب بـ "أبو هريرة"؟
 			</name>
 			<answerWrong>
-				Le Mont Blanc
+				عبد الله بن عباس
 			</answerWrong>
 			<answerWrong>
-				Le Cervin
+				أنس بن مالك
 			</answerWrong>
 			<answerWrong>
-				Le Mont Elbrouz
+				عبد الله بن عمر
 			</answerWrong>
 			<answerRight>
-				Le Mont Elbrouz
+				عبد الرحمن بن صخر الدوسي
 			</answerRight>
 		</question>
 		<question rank="7">
@@ -207,19 +207,19 @@
 		</question>
 		<question rank="13">
 			<name>
-				Qui a écrit "L'Assommoir" ?
+				Quel mathématicien arabe a introduit le système de numérotation décimale en Europe ?
 			</name>
 			<answerWrong>
-				Victor Hugo
+				Ibn Sina
 			</answerWrong>
 			<answerWrong>
-				Gustave Flaubert
+				Al-Farabi
 			</answerWrong>
 			<answerWrong>
-				Honoré de Balzac
+				Ibn Rushd
 			</answerWrong>
 			<answerRight>
-				Émile Zola
+				Al-Khwarizmi
 			</answerRight>
 		</question>
 		<question rank="14">
@@ -241,19 +241,19 @@
 		</question>
 		<question rank="15">
 			<name>
-				Qui a peint "Le Déjeuner sur l'herbe" ?
+				Combien de satellites naturels possède la planète Mars ?
 			</name>
 			<answerWrong>
-				Claude Monet
+				0
 			</answerWrong>
 			<answerWrong>
-				Pierre-Auguste Renoir
+				1
 			</answerWrong>
 			<answerWrong>
-				Paul Cézanne
+				3
 			</answerWrong>
 			<answerRight>
-				Édouard Manet
+				2
 			</answerRight>
 		</question>
 	</questions>
